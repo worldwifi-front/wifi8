@@ -38,8 +38,8 @@ popd
 
 echo "Copy data to the backend repo"
 mkdir -p ../$BACKEND_NAME/public/
-cp -rf ru ../$BACKEND_NAME/public/
-cp -rf en ../$BACKEND_NAME/public/
+rsync -avi --delete ru/ ../$BACKEND_NAME/public/ru/
+rsync -avi --delete en/ ../$BACKEND_NAME/public/en/
 
 echo "Add new data to the backend repo git"
 pushd ../$BACKEND_NAME
