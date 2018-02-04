@@ -55,7 +55,7 @@ if ! [[ -z $(git status -s) ]] ; then
   git remote add heroku $HEROKU_REPO_URL
   echo "Pushing to heroku remote..."
   export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
-  git push -q heroku staging:$BUILD_BRANCH
+  git push -q --force heroku staging:$BUILD_BRANCH
   echo "All done."
 else
   echo "There are no changes in result build, so nothing to push forward. End here."
