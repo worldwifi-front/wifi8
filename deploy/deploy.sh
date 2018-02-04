@@ -48,9 +48,9 @@ git config user.email "$COMMIT_AUTHOR_EMAIL"
 
 git add -A .
 if ! [[ -z $(git status -s) ]] ; then
-  echo "Pushing changes to the $BACKEND_REPO master branch"
+  echo "Pushing changes to the $BACKEND_REPO staging branch"
   git commit -m "Add new build data from $BACKEND_NAME frontend $HEAD_COMMIT commit"
-  git push origin master
+  git push origin staging
   echo "Add $HEROKU_REPO_URL as heroku remote"
   git remote add heroku $HEROKU_REPO_URL
   echo "Pushing to heroku remote..."
