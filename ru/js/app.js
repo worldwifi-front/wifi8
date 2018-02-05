@@ -56,9 +56,68 @@ function getTimeRemaining(endtime) {
         'hours': hours,
         'minutes': minutes,
         'seconds': seconds,
-        'week': 15 - week,
-        'day': day,
+        'week': week,
+        'day': 7 - day,
     };
+}
+
+function getDeclineDays(num) {
+
+    var declineDays;
+
+    switch (num) {
+
+        case 1:
+            declineDays = 'День';
+            break;
+        case 2:
+        case 3:
+        case 4:
+            declineDays = 'Дня';
+            break;
+        case 5:
+        case 6:
+        case 7:
+        default:
+           declineDays = 'Дней';
+           break;
+    }
+
+    return declineDays;
+
+}
+
+function getDeclineWeeks(num) {
+
+    var declineWeeks;
+
+    switch (num) {
+
+        case 1:
+            declineWeeks = 'Неделя';
+            break;
+        case 2:
+        case 3:
+        case 4:
+            declineWeeks = 'Недели';
+            break;
+        case 5:
+        case 6:
+        case 7:
+        case 8:
+        case 9:
+        case 11:
+        case 12:
+        case 13:
+        case 14:
+        case 15:
+        default:
+           declineWeeks = 'Недель';
+           break;
+    }
+
+    return declineWeeks;
+
 }
 
 function initializeClock(id, endtime) {
@@ -73,11 +132,15 @@ function initializeClock(id, endtime) {
         var dc = $('.countdown__days .day__current');
 
 
+
         function updateClock() {
             var t = getTimeRemaining(endtime);
 
             wn.text(t.week);
             dc.text(t.day);
+
+            $('.declineDays').text(getDeclineDays(t.day));
+            $('.declineWeeks').text(getDeclineWeeks(t.week));
 
             daysSpan.text(t.days);
             hoursSpan.text(('0' + t.hours).slice(-2));

@@ -20,7 +20,8 @@
 	font-size: 23px;
 }
 
-.countdown__days .item__day {
+.countdown__days .item__day, 
+.countdown__days .item__week {
 	font-size: 48px;
 }
 
@@ -141,7 +142,8 @@
 		font-size: 15px;
 	}
 
- 	.countdown__days .item__day {
+ 	.countdown__days .item__day, 
+    .countdown__days .item__week {
 		font-size: 35px;
 	}
 
