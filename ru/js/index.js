@@ -1,7 +1,7 @@
 'use strict';
 
 
-var deadline = '2018-03-16';
+var deadline = '2018-03-17';
 initializeClock('clock', deadline);
 initializeClock('clock_1', deadline);
 initializeClock('clock_2', deadline);
