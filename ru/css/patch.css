@@ -22,7 +22,7 @@
 
 .countdown__days .item__day, 
 .countdown__days .item__week {
-	font-size: 48px;
+	font-size: 28px;
 }
 
 .btn__pulse {
@@ -144,7 +144,7 @@
 
  	.countdown__days .item__day, 
     .countdown__days .item__week {
-		font-size: 35px;
+		font-size: 20px;
 	}
 
 	.countdown__text--main .text__title {

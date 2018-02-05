@@ -52,7 +52,7 @@ function getTimeRemaining(endtime) {
     }
     return {
         'total': t,
-        'days': days,
+        'days': days % 7,
         'hours': hours,
         'minutes': minutes,
         'seconds': seconds,
@@ -137,9 +137,9 @@ function initializeClock(id, endtime) {
             var t = getTimeRemaining(endtime);
 
             wn.text(t.week);
-            dc.text(t.day);
+            dc.text(t.days);
 
-            $('.declineDays').text(getDeclineDays(t.day));
+            $('.declineDays').text(getDeclineDays(t.days));
             $('.declineWeeks').text(getDeclineWeeks(t.week));
 
             daysSpan.text(t.days);
