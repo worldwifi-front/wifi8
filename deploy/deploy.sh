@@ -11,7 +11,7 @@ if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
 fi
 
 if [ "$TRAVIS_BRANCH" != "$MASTER_BRANCH" -o "$TRAVIS_BRANCH" != "$STAGING_BRANCH" ]; then
-    echo "Not staging or master branch, skipping deploy;"
+    echo "Not staging or master branch but $TRAVIS_BRANCH, skipping deploy;"
     exit 0
 fi
 
