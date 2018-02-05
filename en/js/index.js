@@ -175,7 +175,7 @@ $(window).on('load', function () {
         }
     }
 
-    $(".navbar-desktop, .navbar-collapse").on('click', 'a:not(a[href="blog.html"])', function (e) {
+    $(".navbar-desktop, .navbar-collapse").on('click', 'a.anchor', function (e) {
         e.preventDefault();
 
         var hash = $(this).attr("href");

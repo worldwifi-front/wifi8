@@ -74,6 +74,12 @@ body {
   will-change: transform;
   z-index: -1;
 }
+
+@media (max-width: 991px) {
+  .body__bg {
+    background: url("../img/epic-bg30m.jpg") no-repeat 50% 0% / cover;
+  }
+}
 a {
   color: #66A7DB;
   text-decoration: none;
@@ -1638,6 +1644,7 @@ hr {
 }
 @media (max-width: 991px) {
   .header__earth {
+    background: transparent;
     display: none;
   }
 }
@@ -2522,6 +2529,12 @@ hr {
           transform: translate(-50%, -50%);
   z-index: 11;
 }
+@media (max-width: 991px) {
+.section__video .video__content {
+  background: url(../img/video1m.jpg) no-repeat 50% 50%;
+}
+}
+
 .section__video .video__content iframe {
   position: absolute;
   left: 0px;
