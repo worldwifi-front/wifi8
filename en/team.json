@@ -73,13 +73,13 @@
             "soc_3": ""
         },
         {
-            "name": "Anastasia Prikazchikova",
-            "position": "Marketing & PR",
-            "text": "Has extensive experience in managing and developing marketing solutions for start up projects in Russia and abroad. The founder of the charitable foundation 'Gift to the Angel'.",
-            "image": "member15.png",
-            "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
+            "name": "Alisha Golden",
+            "position": "Marketing & PR in North America",
+            "text": "A growth strategist and media maven with 11 years of experience across 3 continents growing and scaling start-ups and brands. Alisha is well versed in investment and mainstream media. Alisha’s clients have been featured in Fast Company, INC, Wired, Forbes, Origin Magazine, ABC news, The Huffington Post, The New York Daily News as well as developed brand partnerships with the likes of silicon valley’s travel, tech giant.",
+            "image": "member19.jpg",
+            "soc_1": "",
             "soc_2": "",
-            "soc_3": "https://www.facebook.com/anastasia.kh.79"
+            "soc_3": "https://www.facebook.com/IamAlishaGolden?ref=br_rs"
         },
         {
             "name": "Tim Kosykh",
@@ -91,15 +91,6 @@
             "soc_3": "https://www.facebook.com/tim.kosykh"
         },
         {
-            "name": "Anand Gupta",
-            "position": "Big Data strategy",
-            "text": "Graduate of the Indian Institute of Technology. Extensive experience in Big Data solutions for Nokia and Mitel",
-            "image": "member12.png",
-            "soc_1": "https://www.linkedin.com/in/anand-gupta-438151/",
-            "soc_2": "",
-            "soc_3": ""
-        },
-        {
             "name": "Yuri Polovinkin",
             "position": "Technical Director",
             "text": "Launch of Wi-Fi network in the Moscow Metro. Developed and launched his own hotspot solution. Participated in development and implementation of information systems in major companies.",
@@ -109,6 +100,15 @@
             "soc_3": "https://www.facebook.com/yury.polovinkin"
         },
         {
+            "name": "Anand Gupta",
+            "position": "Big Data strategy",
+            "text": "Graduate of the Indian Institute of Technology. Extensive experience in Big Data solutions for Nokia and Mitel",
+            "image": "member12.png",
+            "soc_1": "https://www.linkedin.com/in/anand-gupta-438151/",
+            "soc_2": "",
+            "soc_3": ""
+        },
+        {
             "name": "Bhavik Limbani",
             "position": "App Developer",
             "text": "Master in computer science. Mobile App Developer, Web Developer, Java, Blockchain Developer",
@@ -116,6 +116,15 @@
             "soc_1": "https://www.linkedin.com/in/bhaviklimbani/",
             "soc_2": "",
             "soc_3": ""
+        },
+        {
+            "name": "Evgeniy Khashin",
+            "position": "CTO & Strategy",
+            "text": "Co-founder of the first Russian PaaS 'Dokkur', CTO of the infrastructure provider 'Swanager'.",
+            "image": "member8.png",
+            "soc_1": "https://ru.linkedin.com/in/adastreamer",
+            "soc_2": "",
+            "soc_3": "https://www.facebook.com/adastreamer"
         },
         {
             "name": "Aleksandr Vinogradov",
@@ -136,15 +145,6 @@
             "soc_3": ""
         },
         {
-            "name": "Evgeniy Khashin",
-            "position": "CTO & Strategy",
-            "text": "Co-founder of the first Russian PaaS 'Dokkur', CTO of the infrastructure provider 'Swanager'.",
-            "image": "member8.png",
-            "soc_1": "https://ru.linkedin.com/in/adastreamer",
-            "soc_2": "",
-            "soc_3": "https://www.facebook.com/adastreamer"
-        },
-        {
             "name": "Mohamed Shoieb",
             "position": "Project manager",
             "text": "Investing financial services and Portfolio management. Making partnerships and business development. Development of investment services (PAMM accounts) and C Trader. CFDs on Forex Contract. Futures and Shares trading.",
@@ -154,13 +154,13 @@
             "soc_3": "https://www.facebook.com/mohamedsshoieb"
         },
         {
-            "name": "Alisha Golden",
-            "position": "Marketing & PR in North America",
-            "text": "A growth strategist and media maven with 11 years of  experience across 3 continents growing and scaling start-ups and brands. Alisha is well versed in generating triple bottom line for clients as well as harnessing the vehicle technology, investment, and mainstream media to drive consumer engagement. Alisha’s clients have been featured in Fast Company, INC, Wired, Forbes, Origin Magazine, ABC news, The Huffington Post, The New York Daily News as well as developed brand partnerships with the likes of silicon valley’s travel, tech giant, Gogobot, Let’s Collaborate NYC, KIND snacks, NBC Universal, The Pollination Project, Mashable, The UN, WEF, ChooseATL, and AirBnB.",
-            "image": "member19.jpg",
-            "soc_1": "",
+            "name": "Anastasia Prikazchikova",
+            "position": "Marketing & PR",
+            "text": "Has extensive experience in managing and developing marketing solutions for start up projects in Russia and abroad. The founder of the charitable foundation 'Gift to the Angel'.",
+            "image": "member15.png",
+            "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
             "soc_2": "",
-            "soc_3": "https://www.facebook.com/IamAlishaGolden?ref=br_rs"
+            "soc_3": "https://www.facebook.com/anastasia.kh.79"
         }
 
     ]
