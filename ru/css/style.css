@@ -1781,6 +1781,19 @@ hr {
   -webkit-border-radius: 50px 0px 0px 50px;
           border-radius: 50px 0px 0px 50px;
 }
+
+/*.progress__wrap .progress__bar--status:before {
+    width: 2px;
+    content: '';
+    background: #fff;
+    height: 180%;
+    right: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+
+} */
+
 @media (max-width: 575px) {
   .progress__wrap .progress__bar--status {
     min-height: 30px;
