@@ -46,7 +46,7 @@ else
   HEROKU_URL=$HEROKU_STAGING_REPO_URL
 fi
 
-echo "Checkout to staging branch in backend repo"
+echo "Checkout to $BUILD_BRANCH branch in backend repo"
 pushd ../$BACKEND_NAME
 git checkout $BUILD_BRANCH
 popd
