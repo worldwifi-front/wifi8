@@ -3944,10 +3944,19 @@ hr {
 }
 .chart__content .chart-container {
   margin-right: 150px;
+  flex: 0 0 510px;
 }
 @media (max-width: 1920px) {
   .chart__content .chart-container {
     margin-right: 100px;
+    flex: 0 0 410px;
+  }
+}
+
+@media (max-width: 575px) {
+  .chart__content .chart-container {
+    margin-right: 100px;
+    flex: 0 0 calc(100vw - 30px);
   }
 }
 @media (max-width: 991px) {
