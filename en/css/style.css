@@ -2091,21 +2091,33 @@ hr {
     font-size: 7vw;
   }
 }
-.countdown__days .item__day {
+
+.declineWeeks, .declineDays {
+  font-size: 24px;
+}
+
+
+.countdown__days .item__day, 
+.countdown__days .item__week {
   line-height: 1;
   text-transform: uppercase;
-  font-size: 52px;
+  /*font-size: 52px;*/
+  font-size: 36px;
 }
 @media (max-width: 1920px) {
-  .countdown__days .item__day {
-    font-size: 46px;
+  .countdown__days .item__day, 
+  .countdown__days .item__week {
+    font-size: 36px;
   }
 }
 @media (max-width: 575px) {
-  .countdown__days .item__day {
-    font-size: 14vw;
+  .countdown__days .item__day, 
+  .countdown__days .item__week {
+    font-size: 10vw;
   }
 }
+
+
 .countdown__wrap {
   color: #ffffff;
   text-align: center;
@@ -2300,7 +2312,7 @@ hr {
 @media (max-width: 575px) {
   .countdown__text--main .text__title--mark {
     display: block;
-    text-align: left;
+    text-align: center;
   }
 }
 .countdown__text--main .text__value {
