@@ -5,6 +5,8 @@ header('Access-Control-Allow-Origin: *');
 $headers = "Content-type: text/html; charset=utf-8 \r\n";
 $headers .= "From: worldwifi <info@worldwifi.io>\r\n"; // от кого
 
+$key = '9a72c63639e0138472daf13888995607-us17';
+
 
 $email = strip_tags($_POST['email']);
 
