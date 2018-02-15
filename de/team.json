@@ -1,8 +1,8 @@
 {
     "advisers": [{
-            "name": "Dmitry Dain",
+            "name": "Dmitrij Deyn",
             "position": "Adviser",
-            "text": "Outstanding cryptographer. Member of the world's cryptographers' association. A developer of Wi-Fi and LTE technologies, owner and founder of 'Virgil Security' (USA), a company specializing in cryptography and encryption.",
+            "text": "Ein herausragender Kryptograph ist das Mitglied von Weltvereinigung der Kryptographie, der Entwickler von Wi-Fi- und LTE-Technologien, der Eigentümer und Gründer von „Virgil Security“ (USA) - die Firma beschäftigt sich mit der Verschlüsselung und Kryptographie. Er ist ein Mitglied von Weltvereinigung der Kryptographie.",
             "image": "member1.jpg",
             "soc_1": "http://linkedin.com/in/dmitrydain",
             "soc_2": "https://twitter.com/dmitrydain",
@@ -11,25 +11,25 @@
         {
             "name": "Fred Ledbetter",
             "position": "Adviser",
-            "text": "CEO Imaginet/Czech Telecom, CCO Virgin Connect, CMO Golden Telecom – executive management in WiFi, Internet, wireless, broadband and mobile in large and medium firms and start ups.",
+            "text": "war der geschäftsführende Direktor bei Virgin Connect, Managing Partner bei Golden Telecom, General Manager bei Imaginet / Czech Telecom. Hat die große Erfahrung in den Bereichen Wi-Fi, Internet, drahtlose Kommunikation und Mobilfunk, bei großen und mittleren Unternehmen und Startups.",
             "image": "member2.jpg",
             "soc_1": "https://linkedin.com/in/fredledbetter",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Thierry De Gorter",
+            "name": "Thierry de Gorter",
             "position": "Adviser",
-            "text": "Has a Princeton University degree in corporate finance. Fascination by modern fin tech, lead him to the deep commitment to the blockchain technology. Currently advising and developing decentralized infrastructure projects. Thierry is bitcoin enthusiast and philanthropist.",
+            "text": "hat die Princeton University, Fakultät für Unternehmensfinanzierung absolviert. Inspiriert von modernem Fintech tauchte er in die Technologie der Blockchain ein. Derzeit ist der Berater und Entwickler von Lösungen für dezentrale Infrastrukturprojekte. Thierry ist der Bitcoin-Enthusiast und Philanthrop.",
             "image": "member16.jpg",
             "soc_1": "https://www.linkedin.com/in/thierry-de-gorter-7088a2a0/",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Yagub Rahimov",
+            "name": "Jagub Rachimow",
             "position": "Media Adviser ",
-            "text": "CEO/Co-founder - 7marketz Inc. Group, Yagub Rahimov is serial entrepreneur operating within FinTech ecosystem. Investing since the age of 16, Yagub is an award winning trader and a savvy Crypto/Bitcoin investor since mid-2009. He has a vision that machine learning combined with the Blockchain technology will define the future of the FinTech ecosystem.",
+            "text": "Ein Serienunternehmer, der im Fintech-Ökosystem arbeitet. Seit 16 Jahren ist Jagub ein Trader mit vielen Auszeichnungen und seit Mitte 2009 ist er ein erfahrener Krypto- und Bitcoin-Investor. Er hat die Vision, dass ein rechnergestütztes Lernen in Verbindung mit der Blockchain-Technologie die Zukunft des Fintech-Ökosystems bestimmt.",
             "image": "member20.jpg",
             "soc_1": "https://www.linkedin.com/in/yrahimov/",
             "soc_2": "https://twitter.com/yrahimov",
@@ -37,27 +37,27 @@
         }
     ],
     "members": [{
-            "name": "Ilya Yashin",
+            "name": "Ilja Jaschin",
             "position": "Co-Founder & CEO",
-            "text": "The expert in the IT integration sphere, digital economy and a blockchain technologies. The co-founder of two actively developing Adrenta and Radius Wi-fi services. He participated in creation of the IT integrator in Moscow. Considers that a blockchain is the future of sharing-economy.",
+            "text": "ist der Unternehmer, mehr als 17 Jahre bei den Projekten im IT-Bereich tätig. Mitbegründer des IT-Integrators. Mitbegründer von Adrenta- und Radius Wi-Fi-Services.",
             "image": "member3.jpg",
             "soc_1": "https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%8F%D1%88%D0%B8%D0%BD-354b8295/",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/isyashin"
         },
         {
-            "name": "Yan Sepiashvili",
+            "name": "Jan Sepiaschwili",
             "position": "Co-Founder",
-            "text": "Entrepreneur, PhD in Medicine, over 10 year in IT, advertising and real estate projects. Managing partner and co-founder of the Adrenta and Radius Wi-Fi services.",
+            "text": "ist der Unternehmer, Kandidat der medizinischen Wissenschaften, seit mehr als 10 Jahren bei den Projekten im IT-Bereich, Werbung und Immobilien tätig. Managing Partner und Mitbegründer von Adrenta und Radius Wi-Fi Services.",
             "image": "member4.jpg",
             "soc_1": "https://www.linkedin.com/in/yan-sepiashvili-2643721b/",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/profile.php?id=100004676508545"
         },
         {
-            "name": "Dmitry Koleznev",
+            "name": "Dmitrij Kolesnew",
             "position": "Chief Operation Officer",
-            "text": "Previously General Director and stock-holder of WorldTelecom.Prior General Director and stock-holder of National Payment System and Delta Telecom.",
+            "text": "hat als Generaldirektor bei WorldTelecom gearbeitet und war der Aktionär dieser Fa. war Generaldirektor und Aktionär im nationalen Zahlungssystem und Delta Telecom.",
             "image": "member5.jpg",
             "soc_1": "https://www.linkedin.com/in/dmitry-koleznev-581742153/",
             "soc_2": "",
@@ -66,34 +66,34 @@
         {
             "name": "Larry Cameron",
             "position": "Technical Information Security Officer",
-            "text": "Chief Technology Officer with a proven track record in the information technology industry. Demonstrated skills in working with Data Centers, Systems Architecture, Management, Support and Cyber Security",
+            "text": "hat eine langjährige Erfahrung als technischer Direktor im Bereich der Informationstechnologie. hat praktische Kenntnisse bei der Arbeit mit Rechenzentren, Systemarchitektur, Managementsystemen, Unterstützung und Cyber-Sicherheit.",
             "image": "member11.jpg",
             "soc_1": "https://www.linkedin.com/in/larrycameron80/",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Alisha Golden",
+            "name": "Alischa Golden",
             "position": "Marketing & PR in North America",
-            "text": "A growth strategist and media maven with 11 years of experience across 3 continents growing and scaling start-ups and brands. Alisha is well versed in investment and mainstream media. Alisha’s clients have been featured in Fast Company, INC, Wired, Forbes, Origin Magazine, ABC news, The Huffington Post, The New York Daily News as well as developed brand partnerships with the likes of silicon valley’s travel, tech giant.",
+            "text": "ist die Wachstumsstrategin und Medienfachfrau mit 11-jährigen Erfahrung bei wachsenden und skalierbaren Startups und Marken auf 3 Kontinenten. Alisha ist eine sehr gute Fachfrau bei der Technologie für die Ausrüstung von Fahrzeugen, Investitionen und wichtigen Medien für die Heranziehung der Kunden. Die Kunden von Alischa wurden bei Fast Company, INC, Wired, Forbes, Origin Magazine, die ABC Nachrichten, The Huffington Post, New York Daily News vertreten sowie die Partnerschaften wurden mit Marken aus dem Silicon Valley und technischen und Reise-Riesenunternehmen.",
             "image": "member19.jpg",
             "soc_1": "",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/IamAlishaGolden?ref=br_rs"
         },
         {
-            "name": "Tim Kosykh",
+            "name": "Timur Kosych",
             "position": "CBDO",
-            "text": "Tech enthusiast and cosmopolite. Founder of a few IT startups in Ireland. Managed multiple technological projects in Europe, Asia, and USA. Believes in technological singularity.",
+            "text": "Timur Kosykh technischer Enthusiast und Kosmopolit. Gründer von mehreren IT-Startups in Irland. Er leitete die Projekte in Asien, Europa und Amerika. Glaubt an technologische Singularität.",
             "image": "member9.jpg",
             "soc_1": "https://www.linkedin.com/in/timkosykh",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/tim.kosykh"
         },
         {
-            "name": "Yuri Polovinkin",
+            "name": "Jurij Polowinkin",
             "position": "Technical Director",
-            "text": "Launch of Wi-Fi network in the Moscow Metro. Developed and launched his own hotspot solution. Participated in development and implementation of information systems in major companies.",
+            "text": "hat an der Einführung von Wi-Fi in der Moskauer U-Bahn teil.genommen hat an der Entwicklung und Einführung seiner eigenen Hot-Spot-Lösung beteiligt. war bei der Entwicklung und Implementierung von Informationssystemen in großen Unternehmen beschäftigt.",
             "image": "member6.jpg",
             "soc_1": "https://www.linkedin.com/in/yury-polovinkin-b0022535",
             "soc_2": "",
@@ -102,52 +102,52 @@
         {
             "name": "Anand Gupta",
             "position": "Big Data strategy",
-            "text": "Graduate of the Indian Institute of Technology. Extensive experience in Big Data solutions for Nokia and Mitel",
+            "text": "hat das Indian Institute of Technology absolviert, hat langjährige Erfahrung der Implementierung von \"Big Data\"-Lösungen bei den Firmen \"Nokia\" und \"Mitel\".",
             "image": "member12.jpg",
             "soc_1": "https://www.linkedin.com/in/anand-gupta-438151/",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Bhavik Limbani",
+            "name": "Bhawik Limbani",
             "position": "App Developer",
-            "text": "Master in computer science. Mobile App Developer, Web Developer, Java, Blockchain Developer",
+            "text": "ist ein talentierter Entwickler von mobilen Apps. Java-Webentwickler.  Blockchain-Entwickler.",
             "image": "member13.jpg",
             "soc_1": "https://www.linkedin.com/in/bhaviklimbani/",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Evgeniy Khashin",
+            "name": "Jewgenij Chaschin",
             "position": "CTO & Strategy",
-            "text": "Co-founder of the first Russian PaaS 'Dokkur', CTO of the infrastructure provider 'Swanager'.",
+            "text": "ist ein Mitbegründer der ersten russischen PaaS \"Dokkur\", STO vom nfrastrukturanbieter \"Swanager\".",
             "image": "member8.jpg",
             "soc_1": "https://ru.linkedin.com/in/adastreamer",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/adastreamer"
         },
         {
-            "name": "Aleksandr Vinogradov",
+            "name": "Alexander Winogradow",
             "position": "Commercial manager",
-            "text": "Lead expert in the Telecom sector supervised sales and products.",
+            "text": "hat bei der Telekommunikationsbranche gearbeitet: er war mit dem Verkaufs- und Produktenmanagement beschäftigt.",
             "image": "member7.jpg",
             "soc_1": "https://www.linkedin.com/in/alavinogradov",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Jagadish Channagiri",
+            "name": "Dshagadisch Tschannagiri",
             "position": "Big Data expert",
-            "text": "Software Executive with broad experience in product development for Big Data solutions.",
+            "text": "ist ein Projektmanager für Softwareentwicklung. hat große Erfahrung bei der Entwicklung von Produkten für Big Data-Lösungen.",
             "image": "member14.jpg",
             "soc_1": "https://www.linkedin.com/in/jagadishchannagiri/",
             "soc_2": "",
             "soc_3": ""
         },
         {
-            "name": "Anastasia Prikazchikova",
+            "name": "Anastasija Prikastschikowa",
             "position": "Marketing & PR",
-            "text": "Has extensive experience in managing and developing marketing solutions for start up projects in Russia and abroad. The founder of the charitable foundation 'Gift to the Angel'.",
+            "text": "hat eine umfangreiche Erfahrung bei der Verwaltung und Entwicklung von Marketing-Lösungen für Startup-Projekte in Russland und im Ausland, die Gründerin der gemeinnützigen Stiftung \"Podarok Angelu\" (\"Geschenk für ein Engel.\")",
             "image": "member15.jpg",
             "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
             "soc_2": "",
