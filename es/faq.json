@@ -1,186 +1,189 @@
 {
-    "main": [
-  {
-    "question": "Qué es World-Fi?",
-    "answer": "World Wi-Fi — es una plataforma blockchain para la creación de una red Wi-Fi global descentralizada y gratuita, que une principalmente a los routers domésticos. Los participantes de la plataforma — son los usuarios corrientes, los propietarios de los routers y los anunciantes. Los usuarios reciben Internet gratis, los propietarios de los routers reciben las remuneraciones de los anunciantes por la publicidad que ven los usuarios, los anunciantes reciben una efectiva herramienta de target de publicidad y los análisis de las campañas publicitarias."
-  },
-  {
-    "question": "Cuándo es el Token Sale?",
-    "answer": "Fecha de inicio/terminación del Token Sale: 18 de marzo/18 de abril del 2018"
-  },
-  {
-    "question": "Qué harán con los tokens que no se vendan?",
-    "answer": "Todos los tokens que no se vendan serán destruidos al siguiente día después de la terminación del Token Sale"
-  },
-  {
-    "question": "Cómo puedo pagar por los tokens?",
-    "answer": "https://docs.google.com/document/d/1j1CHK3XV-6FyRFjeTv11aaVQ00EljEXQxYS5QqJSjlk/edit"
-  },
-  {
-    "question": "Existe un mínimo de fondos que ustedes planean recaudar?",
-    "answer": "Soft cap – 3,500,000 US dollars; Hard cap – 25,000,000 US dollars"
-  },
-  {
-    "question": "Qué ocurriría si la compañía no logra recaudar el monto mínimo necesario?",
-    "answer": "En el caso de que al final del Token Sale, la compañía no logre recaudar la suma necesaria, todos los fondos recaudados serán devueltos a los inversores"
-  },
-  {
-    "question": "Cómo puedo participar en el Token Sale de la compañía?",
-    "answer": "Registre la cuenta del inversor que se necesita para la compra de los tokens y su gestión."
-  }
-],
-    "general": [{
-    "question": "What is World Wi-Fi?",
-    "answer": "World Wi-Fi is a global decentralized free network. The participants of the platform include ordinary users, router owners and advertisers. The users enjoy free internet, router owners are paid by advertisers for the ads viewed by the users; advertisers receive an effective tool for targeting of advertising and analytics of advertising campaign effectiveness."
-  },
-  {
-    "question": "Do you have a Bounty program?",
-    "answer": "Yes, the incentive program has already started and will operate until the end of Token Sale.https://bitcointalk.org/index.php?topic=2583384\n\nTelegram Channel: @wwfbounty"
-  },
-  {
-    "question": "What is the address of the company?",
-    "answer": "Marina Bay Financial Centre, Tower 1, Level 11, 8 Marina Boulevard, Singapore, 018981"
-  },
-  {
-    "question": "What social networks do you use? Where can I find official links to your social accounts?",
-    "answer": "OUR OFFICIAL CHANNELS:\n\r<br>🔸Telegram: https://goo.gl/XBRGFw  \n<br>🔸Facebook Group: https://goo.gl/bZvUWk\n<br>🔸Facebook Page: https://goo.gl/Aj53Pf\n<br>🔸Twitter: https://goo.gl/sN4J5f\n<br>🔸YouTube: https://goo.gl/po89gT\n\n<br>🔸Instagram: https://goo.gl/zqXTti\n<br>🔸Medium: https://goo.gl/RcEE7q\n<br>🔸Steemit: https://goo.gl/Qd6hef\n<br>🔸BitcoinTalk: https://goo.gl/aWstFL\n<br>🔸Reddit: https://goo.gl/uEbJmG"
-  },
-  {
-    "question": "I still have questions …",
-    "answer": "The best way to learn about the project is to contact us directly. A list of all means of communication is at the bottom of each page of the site.\nE-mail – info@worldwifi.io\nSocial media – Telegram Bitcointalk Wechat Twitter Facebook Youtube Instagram"
-  },
-  {
-    "question": "Why do not you use only classical methods of attracting investments?",
-    "answer": "Good question. First, attracting different private investors may lead to business disagreements. We are professionals in our field and we know how to make a successfull business. Second, attracting money through the Token Sale does not give investors a share in business, it is a financial instrument and after fulfilling obligations the business itself will remain in the hands of the team."
-  },
-  {
-    "question": "In what jurisdiction Token Sale is conducted?",
-    "answer": "Singapore"
-  },
-  {
-    "question": "What is the current technical stage in the project development? Were there any tests conducted? Are there any results of those available? Do you have a MVP available for demonstration?",
-    "answer": "We have two working  businesses for selling Wi-Fi advertising and hotspots. The model is tested in b2b marketing and has been runing for 2 years. The total number of connected access points is trending at 14,000 in 80 cities. In March a blockchain based model will be launched."
-  },
-  {
-    "question": "What legal base and expertise the project is premised on?",
-    "answer": "User identification is conducted in compliance with the relevant legislation"
-  },
-  {
-    "question": "On which exchanges are your tokens traded?",
-    "answer": "Our tokens will be available on exchanges upon the Token Sale completion."
-  },
-  {
-    "question": "Where will the routers be manufactured (purchased) and what will be a router price?",
-    "answer": "No need to buy a new router for World Wi-Fi. Most residential routers are compatible with our software."
-  }
-    ],
-    "Token Sale": [{
-            "question": "When is the PRESALE?",
-            "answer": "PRESALE is on from 28 November to 16 March. More info at <a href=\"https://worldwifi.io\">https://worldwifi.io</a>"
-        },
-        {
-            "question": "When is the Token Sale?",
-            "answer": "Token Sale Start/End Date: 18 MARCH / 18 APRIL 2018"
-        },
-        {
-            "question": "Is there a minimum amount of funds you need to raise?",
-            "answer": "Soft cap – 3,500,000 US dollars<br>Hard cap – 25,000,000 US dollars"
-        },
-        {
-            "question": "What will be the volume/quantity of tokens issued during the private sale?",
-            "answer": "The volume of token will be fixed 60,000,000 WeToken"
-        },
-        {
-            "question": "Is the number of tokens limited?",
-            "answer": "Yes."
-        },
-        {
-            "question": "On which platform will be the token sale based on?",
-            "answer": "The token sale will be based on the Etherium platform"
-        },
-        {
-            "question": "How much tokens will be available for purchase?",
-            "answer": "During PRESALE and ICO, 258,000,000 WT will be available for purchase."
-        },
-        {
-            "question": "Of particularly concern is the issue of the structure of the invested funds: you allocate 5% for contingencies which is almost $1,3 – what do those include, provided that as many as 20% go to the legal and technical component?",
-            "answer": "We have made a consolidated summary of estimates for the project promotion. A 5% adjustment might be incorporated for pricing fluctuation which is an appropriate standard of practice."
-        },
-        {
-            "question": "O3% is allocated for advisers. This is a considerable amount ($774 when calculated in numbers). As many as 25 to 30 advisers might be engaged for the above amount. Couldyouprovidemoredetails about those?",
-            "answer": "At the current stage we have been negotiating with top leaders of the cryptocurrency community. 3% account for engaging top advisers. At an early stage of the campaign, not all advisors have entered into agreements which is par for the course."
-        },
-        {
-            "question": "Where a smart contract is available?",
-            "answer": "In GitHub prior to ICO"
-        }
-    ],
-    "how to buy": [{
-    "question": "How can I purchase tokens?",
-    "answer": "https://docs.google.com/document/d/1xQ29dAAjtJCbM035wwtZguk0JNu_le-csi9_TNhP8NU/edit?usp=sharing"
-  },
-  {
-    "question": "How to find the cost of one token relative to Etherium or Bitcoin?",
-    "answer": "The cost is calculated automatically at the time of confirmation of the transaction by the network based on the average value of the price on the exchanges."
-  },
-  {
-    "question": "What is the cost of one token?",
-    "answer": "1 WeToken = 10 advertising impressions in World Wi-Fi = $0.1 - at Pre-Sale stage."
-  },
-  {
-    "question": "How can I invest?",
-    "answer": "There are detailed instructions on the main page of the site, if necessary our support in the Telegram chat can help you. The easiest way is to transfer the etherium to a smart contract from your personal wallet with the erc223 standard. The tokens return to your wallet automatically after confirmation of network."
-  },
-  {
-    "question": "I want to make payment in dollars, how to do it?",
-    "answer": "For beginners in the field of crypto currencies, there is a detailed instruction on the initial page. For a large investment (from $50,000), the organizers are ready for a personal meeting."
-  },
-  {
-    "question": "On the main page of the site and in my personal account there are various addresses of directions to the etherium, where to pay?",
-    "answer": "If you pay from a personal wallet, with the erc223 standard, you can pay directly to the address of the smart contract (address on the main page), the tokens return in automatic mode. If the exchange is with a stock exchange, exchanger, etc., then it is necessary to use a personal cabinet, tokens will be credited in it."
-  },
-  {
-    "question": "Maximum number of tokens",
-    "answer": "600,000,000"
-  },
-  {
-    "question": "What’s the minimum of investment during token sale?",
-    "answer": "The minimal possible purchase is 1 WeToken"
-  },
-  {
-    "question": "What is the gas?",
-    "answer": "The gas is a unit of measurement in which the prices for calculations on the Etherium are measured. The more complex calculation is, the more it is rewarded with gas. This works as follows: the originator of a smart contract sets the price in gases. Miners, on whose computers the calculations are performed, decide whether to perform these calculations or not. If the price is too high, the calculations, and the contract, will never be executed."
-  }
-],
-    "about token": [{
-            "question": "The ERC223 standard of the token, what is it?",
-            "answer": "This is the most modern standard for a token based on the Etherium network. It will support the transparency of transactions with investors. Important: your etherium wallet must support this standard to obtain tokens."
-        },
-        {
-            "question": "On which exchanges will the tokens be traded?",
-            "answer": "This information will be published in July 2018, at this stage negotiations are in progress."
-        },
-        {
-            "question": "How will the tokens be redeemed?",
-            "answer": "We are developing a transparent algorithm for open redemption. Previously, this will be the redemption of tokens from exchanges, and we also consider connecting the capabilities of our site for this purpose."
-        }
-    ],
-    "security": [{
-        "question": "How do I know my tokens are secure?",
-        "answer": "Your tokens will be securely stored in your wallet. We use the encryption with two factor authentification."
-    }],
-    "other": [{
-            "question": "How is your project different from Hot Wi-Fi?",
-            "answer": "The subscription model is used in Radius, and World Wi-Fi is not based on a subscription model"
-        },
-        {
-            "question": "Who has already invested into your project?",
-            "answer": "The project initiators have invested personal funds. In addition, we have collected funds from private investors and foundations"
-        },
-        {
-            "question": "How are you going to partner with to develop globally?",
-            "answer": "World Wi-Fi is a technological platform to be developed though engaging new participants via marketing and PR campaigns in many regions (see details in Financial Model), as well as by engaging system administrators, router installation servicemen, etc. in our referral program. Besides, it is our intention to develop the business throughout public Wi-Fi networks around the world which is an already existing business model (our existing projects Adrenta and Radius Wi-Fi are based on that system)."
-        }
-    ]
+  "main": [{
+      "question": "Qué es World-Fi?",
+      "answer": "World Wi-Fi — es una plataforma blockchain para la creación de una red Wi-Fi global descentralizada y gratuita, que une principalmente a los routers domésticos. Los participantes de la plataforma — son los usuarios corrientes, los propietarios de los routers y los anunciantes. Los usuarios reciben Internet gratis, los propietarios de los routers reciben las remuneraciones de los anunciantes por la publicidad que ven los usuarios, los anunciantes reciben una efectiva herramienta de target de publicidad y los análisis de las campañas publicitarias."
+    },
+    {
+      "question": "Cuándo es el Token Sale?",
+      "answer": "Fecha de inicio/terminación del Token Sale: 18 de marzo/18 de abril del 2018"
+    },
+    {
+      "question": "Qué harán con los tokens que no se vendan?",
+      "answer": "Todos los tokens que no se vendan serán destruidos al siguiente día después de la terminación del Token Sale"
+    },
+    {
+      "question": "Cómo puedo pagar por los tokens?",
+      "answer": "https://docs.google.com/document/d/1j1CHK3XV-6FyRFjeTv11aaVQ00EljEXQxYS5QqJSjlk/edit"
+    },
+    {
+      "question": "Existe un mínimo de fondos que ustedes planean recaudar?",
+      "answer": "Soft cap – 3,500,000 US dollars; Hard cap – 25,000,000 US dollars"
+    },
+    {
+      "question": "Qué ocurriría si la compañía no logra recaudar el monto mínimo necesario?",
+      "answer": "En el caso de que al final del Token Sale, la compañía no logre recaudar la suma necesaria, todos los fondos recaudados serán devueltos a los inversores"
+    },
+    {
+      "question": "Cómo puedo participar en el Token Sale de la compañía?",
+      "answer": "Registre la cuenta del inversor que se necesita para la compra de los tokens y su gestión."
+    }
+  ],
+  "general": [{
+      "question": "Qué es World-Fi?",
+      "answer": "World Wi-Fi — es una plataforma blockchain para la creación de una red Wi-Fi global descentralizada y gratuita, que une principalmente a los routers domésticos. Los participantes de la plataforma — son los usuarios corrientes, los propietarios de los routers y los anunciantes. Los usuarios reciben Internet gratis, los propietarios de los routers reciben las remuneraciones de los anunciantes por la publicidad que ven los usuarios, los anunciantes reciben una efectiva herramienta de target de publicidad y los análisis de las campañas publicitarias."
+    },
+    {
+      "question": "Tienen bounty y dónde puedo obtener información sobre ellos?",
+      "answer": "Si, tenemos, puede obtener una información detallada sobre ellos en el siguiente enlace: https://bitcointalk.org/index.php?topic=2583384\n\nTelegram Channel: @wwfbounty"
+    },
+    {
+      "question": "Cuál es la dirección de la firma?",
+      "answer": "Centro Financiero Marina Bay, Torre 1, nivel 11, Boulevard Marina 8, Singapur, 018981"
+    },
+    {
+      "question": "Qué redes sociales utilizan?",
+      "answer": "OUR OFFICIAL CHANNELS:\n\r<br>🔸Telegram: https://goo.gl/XBRGFw  \n<br>🔸Facebook Group: https://goo.gl/bZvUWk\n<br>🔸Facebook Page: https://goo.gl/Aj53Pf\n<br>🔸Twitter: https://goo.gl/sN4J5f\n<br>🔸YouTube: https://goo.gl/po89gT\n\n<br>🔸Instagram: https://goo.gl/zqXTti\n<br>🔸Medium: https://goo.gl/RcEE7q\n<br>🔸Steemit: https://goo.gl/Qd6hef\n<br>🔸BitcoinTalk: https://goo.gl/aWstFL\n<br>🔸Reddit: https://goo.gl/uEbJmG"
+    },
+    {
+      "question": "Me quedan preguntas por hacer…",
+      "answer": "El mejor método para conocer acerca del Proyecto es contactándo con nosotros directamente. La lista de todos los medios de comunicación se encuentra debajo de cada página del sitio."
+    },
+    {
+      "question": "Por qué no utilizan los métodos clásicos para atraer inversiones, tales como el crédito bancario o el inversor privado?",
+      "answer": "Interesante pregunta. En primer lugar, la incorporación de inversores privados puede conllevar a las consecuencias de la fábula “El cisne, el cangrejo y el lucio”. Somos profesionales y sabemos cómo hacer exitoso un negocio. El Token Sale no da participación a los inversores en el negocio, esto es una herramienta financiera, después que cumplir con las obligaciones contraídas, el negocio se queda en manos del equipo."
+    },
+    {
+      "question": "En qué jurisdicción se realizará el Token Sale?",
+      "answer": "Singapur"
+    },
+    {
+      "question": "En estos momentos Cuál es la fase técnica del desarrollo del proyecto? ¿Se realizaron pruebas-están disponibles los resultados? ¿Existen un MVP para la demostración?",
+      "answer": "Dos negocios trabajando, de venta de publicidad y hotposts, el modelo se muestra en el segmento 626 y trabaja hace ya 2 años. El número total de puntos conectados – es de aproximadamente 14000, en 80 ciudades. Em marzo emitiremos la versión con el componente Blockchain."
+    },
+    {
+      "question": "Sobre qué se construye la base legal y pericial del proyecto?",
+      "answer": "En dependencia de la legislación se realiza la identificación del usuario."
+    },
+    {
+      "question": "En cuáles bolsas estarán disponibles sus tokens?",
+      "answer": "Nuestros tokens estarán disponibles en las bolsas después de la etapa del Token sale."
+    },
+    {
+      "question": "Dónde se producirá (comprará) el valor del router?",
+      "answer": "Para conectarse a World Wi-Fi no es necesario comprar un nuevo router. Nuestro programa integrado soporta la mayoría de los routers domésticos."
+    }
+  ],
+  "Token Sale": [{
+      "question": "Cuándo es el PRE-SALE?",
+      "answer": "El PRE-SALE se está realizando desde el 1 de diciembre hasta el 16 de marzo. Los detalles los podrá consultar en <a href=\"https://worldwifi.io\">https://worldwifi.io</a>"
+    },
+    {
+      "question": "Cuándo es el Token Sale?",
+      "answer": "Fecha de inicio/terminación del Token Sale: 18 de marzo / 18 abril, 2018"
+    },
+    {
+      "question": "Existe un mínimo volumen de fondos que ustedes planean recaudar?",
+      "answer": "Soft cap – 3,500,000 US dollars<br>Hard cap – 25,000,000 US dollars"
+    },
+    {
+      "question": "Qué cantidad de tokens se planean vender en el PRE-SALE",
+      "answer": "60,000,000 WeToken"
+    },
+    {
+      "question": "Está limitada la cantidad de tokens?",
+      "answer": "Sí"
+    },
+    {
+      "question": "En cuál plataforma se producirá la realización de los tokens?",
+      "answer": "En la plataforma Ethereum"
+    },
+    {
+      "question": "Bonificación por la participación en el PRE-SALE",
+      "answer": "3 opciones de bonificación en el PRE-Sale:<br>1.  Hasta 50 000 USD<br>* 15% de bonificación a los tokens<br>* La cantidad máxima de tokens está limitada a un monto de 2 000 000 USD<br>2. Desde 50 000 USD y más<br>* 25% de bonificación a los tokens<br>3. Todos los participantes del PRE-SALE y del ICO, que inviertan a partir de 15 000 $, recibirán enlaces raíces únicos de referencia libres de comisión."
+    },
+    {
+      "question": "Existen limitaciones para participar en el Token Sale?",
+      "answer": "Al adquirir token durante el Token Sale, o mediante cualquier otro método, usted da su conformidad de que no es ciudadano de China o de cualquier otro país donde a los tokens se equiparan con títulos valores. Además, usted debe conocer si no viola la ley de su país."
+    },
+    {
+      "question": "Cuántos tokens en total estarán disponibles para la venta?",
+      "answer": "En total están disponibles para la compra 258,000,000 WT"
+    },
+    {
+      "question": "Como ustedes dicen, el 3% se destinará para los consultores. Esto es una suma considerable ($774 mil como cálculo ideal). Por esta suma se pudieran captar en el orden de 25-30 consultores. Pudieran, brindar por favor, una información detallada sobre ellos?",
+      "answer": "En esta etapa estamos negociando con los representantes del tope de la cripto-comunidad. El 3% es considerando la incorporación de los consultores de tope. En la etapa del inicio de la compañía aún no se han contratado a todos los consultores, así está previsto."
+    },
+    {
+      "question": "Dónde están disponibles los contratos inteligentes?",
+      "answer": "En el GitHub antes del Token Sale"
+    }
+  ],
+  "how to buy": [{
+      "question": "Cómo se pueden comprar los tokens?",
+      "answer": "https://docs.google.com/document/d/1xQ29dAAjtJCbM035wwtZguk0JNu_le-csi9_TNhP8NU/edit?usp=sharing"
+    },
+    {
+      "question": "Cómo se puede conocer el valor de un token en relación al Ethereum y el Bitcoin?",
+      "answer": "El valor se calcula de forma automática en el momento de la confirmación de la transacción por la red por el valor promedio del precio en las bolsas."
+    },
+    {
+      "question": "Cuál es el valor de un token?",
+      "answer": "1 WeToken = 10 exhibiciones publicitarias World Wi-Fi = $0.1 – en la etapa Token Sale."
+    },
+    {
+      "question": "Cómo puedo invertir?",
+      "answer": "Las instrucciones detalladas se encuentran en la página principal del sitio, si es necesario a usted se le podrá ayudar a través del chat. El método más sencillo es la transferencia del Ethereum al contrato inteligente desde su monedero personal con el estándar erc223. Los tokens regresarán a su monedero automáticamente después de la confirmación por la red."
+    },
+    {
+      "question": "Deseo efectuar el pago en dólares, cómo lo puedo hacer?",
+      "answer": "Para los principiantes en la esfera de las criptomonedas están disponibles las instrucciones detalladas en la página de inicio. Si se trata de una gran inversión (a partir de 50.000 $) los organizadores están dispuestos a realizar un encuentro personal."
+    },
+    {
+      "question": "En la página principal del sitio en la cuenta personal hay diferentes direcciones del monedero Ethereum, ¿dónde debo efectuar el pago?",
+      "answer": "Si usted paga desde su monedero personal con el estándar erc223, puede pagar directamente a la dirección del contrato inteligente (la dirección en la página principal), los tokens se devuelven en modo automático. Si el cambio proviene una bolsa, oficina de cambio de monedas, etc, debe utilizar su cuenta personal, los tokens se le depositarán en su esa cuenta."
+    },
+    {
+      "question": "Número máximo de tokens emitidos",
+      "answer": "600,000,000"
+    },
+    {
+      "question": "Cuál es la cantidad mínima de tokens que se puede adquirir?",
+      "answer": "La compra mínima posible es de - 1 token."
+    },
+    {
+      "question": "Qué significa gas?",
+      "answer": "Gas – es la unidad de medida, en la cual se miden los precios por realizar los cálculos en Ethereum. Los cálculos más complejos se remuneran con mayor cantidad de gases. Funciona de la siguiente forma: el organizador del contrato inteligente establece el precio en gases. Los mineros, en cuyos ordenadores se realizan los cálculos, deciden si van a realizar los cálculos o no. Si el precio se fija demasiado bajo, los cálculos, y por ende, el contrato, nunca serán ejecutados."
+    }
+  ],
+  "about token": [{
+      "question": "Qué es el estándar de token erc223?",
+      "answer": "Este es el estándar más moderno de token sobre la base de la red Ethereum. Soportará la transparencia de las operaciones con los inversores. Importante: su monedero Ethereum debe soportar este estándar para recibir los tokens."
+    },
+    {
+      "question": "En qué bolsas se venderán los tokens?",
+      "answer": "Esta información se publicará en el mes de junio del año 2018, en esta etapa se están realizando las negociaciones."
+    },
+    {
+      "question": "Cómo se emitirán los tokens?",
+      "answer": "Estamos desarrollando un algoritmo transparente de compra abierta. Previamente será una compra de tokens en la bolsa, además estamos analizando las conexiones de las posibilidades de nuestro sitio  para estos fines."
+    }
+  ],
+  "security": [{
+    "question": "Cómo puedo saber si mis tokens están seguros?",
+    "answer": "Sus tokens se guardarán en su monedero de criptomonedas."
+  }],
+  "other": [{
+      "question": "En qué ustedes se diferencian del Hot Wi-Fi?",
+      "answer": "Modelo con suscripción – es el principio del radio, Wi-Fi – No tiene suscripción."
+    },
+    {
+      "question": "Quiénes ya han invertido en su proyecto?",
+      "answer": "Los fundadores invirtieron fondos personales, además ya hemos recibido financiamiento de inversores y  fondos privados."
+    },
+    {
+      "question": "Con quién y cómo planean desarrollarse por el mundo?",
+      "answer": "World Wi-Fi – es una plataforma tecnológica, que se desarrollará como resultado de la captación de nuevos participantes a través de la campañas de marketing y PR en diferentes regiones (puede recibir una información más detallada consulte el modelo financiero), así como con la captación a nuestro programa de referencia de administradores de sistemas, instaladores de routers y otros equipos. Además, planeamos desarrollar el negocio en las redes Wi-Fi públicas por todo el mundo, ya esto se viene realizando y el modelo de trabajo del negocio (por este sistema funcionan nuestros proyectos actuales Adrenta y Radius Wi-Fi)"
+    }
+  ]
 
 }
