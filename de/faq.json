@@ -116,7 +116,7 @@
         },
         {
             "question": "Wo ist der Smart-Vertrag verfügbar?",
-            "answer": "Auf Github vor Token Sale"
+            "answer": "<a target='_blank' href='https://github.com/World-WiFi/smart-contracts'>https://github.com/World-WiFi/smart-contracts</a>"
         }
     ],
     "how to buy": [{
