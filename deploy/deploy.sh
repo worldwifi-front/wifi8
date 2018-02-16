@@ -53,7 +53,7 @@ popd
 
 echo "Copy data to the backend repo"
 mkdir -p ../$BACKEND_NAME/public/
-rsync -avi --exclude=deploy --exclude=id_rsa --exclude=.git --exclude=.travis.yml --exclude=.gitignore --delete ./ ../$BACKEND_NAME/public/
+rsync -avi --exclude=deploy --exclude=id_rsa --exclude=.git --exclude=.travis.yml --exclude=.gitignore ./ ../$BACKEND_NAME/public/
 echo "End copying data to the backend repo"
 
 echo "Add new data to the backend repo git"
