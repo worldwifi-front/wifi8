@@ -1,7 +1,7 @@
 {
     "advisers": [{
             "name": "Dmitry Dain",
-            "position": "Adviser, one of the first developers of 802.11 Wi-Fi Protocol.",
+            "position": "Adviser, one of the first developers of 802.11 Wi-Fi Protocol",
             "text": "Outstanding cryptographer. Member of the world's cryptographers' association. A developer of Wi-Fi and LTE technologies, owner and founder of 'Virgil Security' (USA), a company specializing in cryptography and encryption.",
             "image": "member1.jpg",
             "soc_1": "http://linkedin.com/in/dmitrydain",
