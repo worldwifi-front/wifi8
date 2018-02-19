@@ -39,7 +39,7 @@
     "members": [{
             "name": "Ilya Yashin",
             "position": "Co-Founder & CEO",
-            "text": "Empresario, ha participado durante más de 17 años en proyectos en la esfera de las tecnologías de la información y la comunicación. Cofundador de IT-integrador. Cofundador de los servicios Adrenta y Radius Wi-Fi.",
+            "text": "Experto en el campo de la integración IT, economía digital y blockchain. Cofundador de los dos servicios en desarrollo activo - Adrenta y Radius Wi-Fi. Participó en la creación del integrador IT en Moscú. Considera que el futuro de la sharing-economy (economía compartida) está a continuación del éxito del blockchain.",
             "image": "member3.jpg",
             "soc_1": "https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%8F%D1%88%D0%B8%D0%BD-354b8295/",
             "soc_2": "",
@@ -125,15 +125,6 @@
             "soc_1": "https://ru.linkedin.com/in/adastreamer",
             "soc_2": "",
             "soc_3": "https://www.facebook.com/adastreamer"
-        },
-        {
-            "name": "Aleksandr Vinogradov",
-            "position": "Commercial manager",
-            "text": "Trabajó en la esfera de las telecomunicaciones: se encargó de las ventas y los productos.",
-            "image": "member7.jpg",
-            "soc_1": "https://www.linkedin.com/in/alavinogradov",
-            "soc_2": "",
-            "soc_3": ""
         },
         {
             "name": "Jagadish Channagiri",
