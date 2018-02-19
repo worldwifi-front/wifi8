@@ -1,0 +1,153 @@
+{
+  "advisers": [
+      {
+          "name": "드미트리 데인",
+          "position": "Adviser, разработчик первого в мире Wi-Fi протокола",
+          "text": "저명한 크립토그래퍼로 세계크립토그래퍼협회 회원이며 Wi-Fi 및 LTE 기술 개발자이면서, 암호화 및 암호학을 다루는 미국 «Virgil Security» 사의 소유주이자 발기인이다. 세계크립토그래퍼협회 회원이다.",
+          "image": "member1.jpg",
+          "soc_1": "http://linkedin.com/in/dmitrydain",
+          "soc_2": "https://twitter.com/dmitrydain",
+          "soc_3": ""
+      },
+      {
+          "name": "프레드 레드베터",
+          "position": "Adviser, руководитель крупнейших Telecom операторов",
+          "text": "Virgin Connect 사의 상무이자, Golden Telecom에서 협력업체 관리를 담당하였으며, Imaginet/Czech Telecom 대표이사를 역임했다. 대기업, 중견기업 및 신생기업 Wi-Fi, 인터넷, 무선, 모바일 통신 분야에서 근무 경험이 많다.",
+          "image": "member2.jpg",
+          "soc_1": "https://linkedin.com/in/fredledbetter",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "테리 데 호터",
+          "position": "Adviser",
+          "text": "프린스턴대학 기업금육 학부를 졸업했다. 첨단 핀테크 기술에 영감을 받은 그는 블록체인 기술에 몰입했다. 현재 분산형 인프라 프로젝트 솔루션의 고문이면서 개발자이다. 테리 비트코인 열광자이며 동시에 박애주의자.",
+          "image": "member16.jpg",
+          "soc_1": "https://www.linkedin.com/in/thierry-de-gorter-7088a2a0/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "야굽 라히모프",
+          "position": "Media Advisor",
+          "text": "핀테크 에코시스템에서 근무하고 있는 사업가. 16세부터 투자하면서 야굽은 수상 경력도 보유하고 있으며, 2009년 중반부터는 가상화폐와 비트코인 투자자로 활동하고 있다. 블록체인 기술과 기계적 학습이 결합하면 핀테크 에코시스템의 장래가 결정될 것이라는 비전을 갖고 있다.",
+          "image": "member20.jpg",
+          "soc_1": "https://www.linkedin.com/in/yrahimov/",
+          "soc_2": "https://twitter.com/yrahimov",
+          "soc_3": "https://www.facebook.com/yrahimov"
+      }
+
+   ],
+   "members": [
+      {
+          "name": "일리야 야쉰",
+          "position": "Co-Founder & CEO",
+          "text": "IT 통합, 디지털 경제 및 블록버스터 분야의 전문가. 적극적으로 개발하고 있는 Adrenta와 Radius Wi-Fi의 공동 설립자. 모스크바에 IT 통합 업체 창설에 참여했음. 그분은 전단 경제의 미래가 블록버스터의 이면에 있다고 생각함.",
+          "image": "member3.jpg",
+          "soc_1": "https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%8F%D1%88%D0%B8%D0%BD-354b8295/",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/isyashin"
+      },
+      {
+          "name": "얀 세피아쉬빌리",
+          "position": "Co-Founder",
+          "text": "기업가이자 의학박사이면서 10년 이상을 IT, 광고, 부동산 업계 프로젝트를 담당하고 있다. Adrenta 및 Radius Wi-Fi 서비스의 관리 협력업체이자 공동 창업자이기도 하다.",
+          "image": "member4.jpg",
+          "soc_1": "https://www.facebook.com/profile.php?id=100004676508545",
+          "soc_2": "",
+          "soc_3": "https://www.linkedin.com/in/yan-sepiashvili-2643721b/"
+      },
+      {
+          "name": "드미트리 칼레즈네프",
+          "position": "Chief Operation Officer",
+          "text": "'월드텔레콤'의 대표이사이자 주주였다. 또한 국가결제시스템과 '델타 텔레콤'의 대표이사이자 주주였다.",
+          "image": "member5.jpg",
+          "soc_1": "https://www.linkedin.com/in/dmitry-koleznev-581742153/",
+          "soc_2": "",
+          "soc_3": "https://m.facebook.com/dmitry.koleznev.5"
+      },
+      {
+          "name": "라리 케메론",
+          "position": "Technical Information Security Officer",
+          "text": "다년간 정보기술 업계에서 기술이사로 근무했다. 데이터센터, 시스템 구축, 관리시스템, 지원 및 사이버 보안 분야에서 실무 경험을 보유하고 있다.",
+          "image": "member11.jpg",
+          "soc_1": "https://www.linkedin.com/in/larrycameron80/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "알리샤 골덴",
+          "position": "Marketing & PR in North America",
+          "text": "성장 기업과 대규모 신생기업, 3개 대륙 브랜드 업체에서 11년간의 업무 경력을 보유한 성장 전략가 및 미디어 전문가. 알리샤는 차량 구비 장비 기술, 투자, 고객 유치에 필요한 대중매체 주요 장비 등에 대한 지식을 보유하고 있다. Alisha 고객에는 Fast Company, INC, Wired, Forbes, Origin Magazine, ABC 뉴스, The Huffington Post, New York Daily News이 있고, 실리콘 밸리 브랜드들, 거대 기술 기업 등과도 협업 관계를 구축했다.",
+          "image": "member19.jpg",
+          "soc_1": "",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/IamAlishaGolden?ref=br_rs"
+      },
+      {
+          "name": "티무르 코시흐",
+          "position": "CBDO",
+          "text": "기술 열광자이면서 세계시민주의자. 아일랜드 몇몇 IT 신생기업 창업자. 아시아, 유럽, 아메리카 프로젝트 지휘. 기술적 독창성 신봉자.",
+          "image": "member9.jpg",
+          "soc_1": "https://www.linkedin.com/in/timkosykh",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/tim.kosykh"
+      },
+      {
+          "name": "유리 폴로빈킨",
+          "position": "Technical Director",
+          "text": "모스크바 전철 내 Wi-Fi 설치에 참여. 핫 스팟 솔루션 개발 및 설치. 대규모 기업 내 정보시스템 개발 및 도입에 참여.",
+          "image": "member6.jpg",
+          "soc_1": "https://www.linkedin.com/in/yury-polovinkin-b0022535",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/yury.polovinkin"
+      },
+      {
+          "name": "아난드 굽타",
+          "position": "Big Data strategy",
+          "text": "인도공과대학교 IIT 졸업. «Nokia» 및 «Mitel» 사에서 빅데이터 솔루션 구현에 다년간의 경험 보유.",
+          "image": "member12.jpg",
+          "soc_1": "https://www.linkedin.com/in/anand-gupta-438151/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "브하비크 림바니",
+          "position": "App Developer",
+          "text": "모바일 앱 개발에 재능을 보이는 개발자. Java-Web 개발자. 블록체인 개발자.",
+          "image": "member13.jpg",
+          "soc_1": "https://www.linkedin.com/in/bhaviklimbani/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "예브게니 하쉰",
+          "position": "CTO & Strategy",
+          "text": "러시아 첫 PaaS «Dokkur», 인프라 프로바이더 기술서비스 거점 «Swanager» 공동 창업자.",
+          "image": "member8.jpg",
+          "soc_1": "https://ru.linkedin.com/in/adastreamer",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/adastreamer"
+      },
+      {
+          "name": "자가디쉬 차나기리",
+          "position": "Big Data expert",
+          "text": "소프트웨어 개발 프로젝트 책임자. 빅데이터 솔루션 제품 개발 분야에서 경험 다수.",
+          "image": "member14.jpg",
+          "soc_1": "https://www.linkedin.com/in/jagadishchannagiri/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "아나스타시야 프리카즈치코바",
+          "position": "Маркетинг & PR",
+          "text": "러시아와 해외 신생기업 프로젝트 마케팅 솔루션 운영 및 개발 분야에서 광범위한 경험을 보유하고 있으며, 자선단체 '파다로크 안겔루/천사에게 보내는 선물' 설립자이다.",
+          "image": "member15.jpg",
+          "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/anastasia.kh.79"
+      }
+
+   ]
+
+}
