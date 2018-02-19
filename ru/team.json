@@ -2,7 +2,7 @@
   "advisers": [
       {
           "name": "Дмитрий Дэйн",
-          "position": "Adviser, разработчик первого в мире Wi-Fi протокола.",
+          "position": "Adviser, разработчик первого в мире Wi-Fi протокола",
           "text": "Выдающийся криптограф – входит в ассоциацию криптографов мира, разработчик технологий Wi-Fi и LTE, владелец и основатель компании «Virgil Security» (США) – компания занимается шифрованием и криптографией. Входит в ассоциацию криптографов мира.",
           "image": "member1.jpg",
           "soc_1": "http://linkedin.com/in/dmitrydain",
@@ -11,7 +11,7 @@
       },
       {
           "name": "Фред Ледбеттер",
-          "position": "Adviser, руководитель крупнейших Telecom операторов.",
+          "position": "Adviser, руководитель крупнейших Telecom операторов",
           "text": "Был генеральным директором Imaginet/Czech Telecom. Был коммерческим директором в Virgin Connect, управляющим партнером Golden Telecom. Большой опыт работы в области Wi-Fi, интернета, беспроводной и мобильной связи в крупных, средних компаниях и стартапах.",
           "image": "member2.jpg",
           "soc_1": "https://linkedin.com/in/fredledbetter",
@@ -128,15 +128,6 @@
           "soc_1": "https://ru.linkedin.com/in/adastreamer",
           "soc_2": "",
           "soc_3": "https://www.facebook.com/adastreamer"
-      },
-      {
-          "name": "Александр Виноградов",
-          "position": "Commercial manager",
-          "text": "Работал в Телеком отрасли: управлял продажами и продуктами.",
-          "image": "member7.jpg",
-          "soc_1": "https://www.linkedin.com/in/alavinogradov",
-          "soc_2": "",
-          "soc_3": ""
       },
       {
           "name": "Джагадиш Чаннагири",
