@@ -2,7 +2,7 @@
   "advisers": [
       {
           "name": "德米特里·丹妮",
-          "position": "Adviser, разработчик первого в мире Wi-Fi протокола",
+          "position": "Adviser",
           "text": "一位杰出的密码学家，是世界密码学协会的成员，Wi-Fi和LTE技术的开发者，Virgil Security（美国）的创始人和所有者 - 该公司从事密码化和密码学。 是世界密码学家协会的成员。",
           "image": "member1.jpg",
           "soc_1": "http://linkedin.com/in/dmitrydain",
@@ -11,7 +11,7 @@
       },
       {
           "name": "弗雷德·莱德贝特",
-          "position": "Adviser, руководитель крупнейших Telecom операторов",
+          "position": "Adviser",
           "text": "他曾担任Virgin Connect公司的商务经理，Golden Telecom公司的执行合伙人，Imaginet /捷克电信的总经理。 他在Wi-Fi、互联网、无线和移动通信、大中型企业和初创企业领域拥有丰富的经验。",
           "image": "member2.jpg",
           "soc_1": "https://linkedin.com/in/fredledbetter",
@@ -60,7 +60,7 @@
       {
           "name": "德米特里·科列兹涅夫",
           "position": "Chief Operation Officer",
-          "text": "他曾担任WorldTelecom的总经理和股东。 他是“全国支付系统”和"Delta Telecom"的总干事和股东。“",
+          "text": "他曾担任WorldTelecom的总经理和股东。 他是“全国支付系统”和\"Delta Telecom\"的总干事和股东。“",
           "image": "member5.jpg",
           "soc_1": "https://www.linkedin.com/in/dmitry-koleznev-581742153/",
           "soc_2": "",
@@ -140,7 +140,7 @@
       },
       {
           "name": "阿纳斯塔西娅·普里卡兹奇科瓦",
-          "position": "Маркетинг & PR",
+          "position": "Marketing & PR",
           "text": "她在俄罗斯和国外创业项目的营销解决方案管理并开发方面具有丰富的经验，她是“送给天使的礼物”慈善基金会的创始人。",
           "image": "member15.jpg",
           "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
