@@ -1,0 +1,153 @@
+{
+  "advisers": [
+      {
+          "name": "Dmitry Dain ",
+          "position": "Adviser",
+          "text": "優秀な暗号技術者。世界暗号技術者協会のメンバー。Wi-Fi及びLTE技術の買いシャツ者。暗号技術及び暗号化を専門とする米国のVirgil Security社の設立者。",
+          "image": "member1.jpg",
+          "soc_1": "http://linkedin.com/in/dmitrydain",
+          "soc_2": "https://twitter.com/dmitrydain",
+          "soc_3": ""
+      },
+      {
+          "name": "Fred Ledbetter",
+          "position": "Adviser",
+          "text": " 以前Virgin Connectの営業部長・Golden Telecomのパートナー・Imaginet/Czech Telecomの社長として活動していた。 Wi-Fi・インターネット・無線/モバイル通信業・大中企業やスタートアッププロジェクトにおいて豊富な経験を持っている。",
+          "image": "member2.jpg",
+          "soc_1": "https://linkedin.com/in/fredledbetter",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Thierry de Gorter ",
+          "position": "Adviser",
+          "text": "プリンストン大学の企業財務部を卒業。最新のフィンテックに興味を持ち、ブロックチェーン技術の開発に取り組んだ。現在、非集中型インフラプロジェクトの解決策の開発者・顧問として活動を行っている。彼はビットコインに対して熱心を持つ慈善家である。",
+          "image": "member16.jpg",
+          "soc_1": "https://www.linkedin.com/in/thierry-de-gorter-7088a2a0/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Yagub Rakhimov ",
+          "position": "Media Advisor",
+          "text": "フィンテックエコシステムで活躍している連続企業家。16歳から投資を始めたYagub氏は、色々な賞を獲得したトレーダーであり、2009年半ばから仮想通過とビットコインの投資家として経験を積んできた。彼は、フィンテックエコシステムの将来はブロックチェーン技術と機械学習にあると主張している。",
+          "image": "member20.jpg",
+          "soc_1": "https://www.linkedin.com/in/yrahimov/",
+          "soc_2": "https://twitter.com/yrahimov",
+          "soc_3": "https://www.facebook.com/yrahimov"
+      }
+
+   ],
+   "members": [
+      {
+          "name": "Ilya Yashin",
+          "position": "Co-Founder & CEO",
+          "text": "ITインテグレーション・デジタル経済・ブロックチェーンの専門家。 ADRENTAとRadius Wi-Fi サービスの共同設立者。モスクワにおけるITインテグレータの開発プロジェクトに参加。ブロックチェーンが共有経済の鍵を握っていると確信している。",
+          "image": "member3.jpg",
+          "soc_1": "https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F-%D1%8F%D1%88%D0%B8%D0%BD-354b8295/",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/isyashin"
+      },
+      {
+          "name": "Yan Sepiashvili",
+          "position": "Co-Founder",
+          "text": "起業家、医学博士。IT・広告・不動産分野におけるプロジェクトに10年以上取り組んでいる。Adrenta、Radius Wi-Fiサービスの共同設立者・パートナー",
+          "image": "member4.jpg",
+          "soc_1": "https://www.facebook.com/profile.php?id=100004676508545",
+          "soc_2": "",
+          "soc_3": "https://www.linkedin.com/in/yan-sepiashvili-2643721b/"
+      },
+      {
+          "name": "Dmitry Koleznev",
+          "position": "Chief Operation Officer",
+          "text": " 以前、 WorldTelecom、National Payment System、 Delta Telecomの社長と株主だった",
+          "image": "member5.jpg",
+          "soc_1": "https://www.linkedin.com/in/dmitry-koleznev-581742153/",
+          "soc_2": "",
+          "soc_3": "https://m.facebook.com/dmitry.koleznev.5"
+      },
+      {
+          "name": "Larry Cameron",
+          "position": "Technical Information Security Officer",
+          "text": "IT業界で最高技術責任者として長年にわたって活動を行っている。データセンター・システムアーキテクチャー・マネジメント/サポート/サイバーセキュリティーシステムに関わる業務も経験あり",
+          "image": "member11.jpg",
+          "soc_1": "https://www.linkedin.com/in/larrycameron80/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Alisha Golden",
+          "position": "Marketing & PR in North America",
+          "text": "成長戦略家、3大陸で拡大中のスタートアッププロジェクトとブランド関連の仕事の11年間にわたる経験を持つメディア専門家。彼女は顧客向けのトリプルボトムライン設定・車両の装備技術・新規顧客開拓に必要な投資や主要メディアの技術に詳しい。彼女の得意先は、例えば、Fast Company、INC、Wired、Forbes、Origin Magazine、 ABC News、The Huffington Post, New York Daily Newsが挙げられる。更に、彼女は、 シリコンバレーの企業、技術業界の大手企tと協力関係構築に貢献した。",
+          "image": "member19.jpg",
+          "soc_1": "",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/IamAlishaGolden?ref=br_rs"
+      },
+      {
+          "name": "Timur Kosykh",
+          "position": "CBDO",
+          "text": "技術に対して熱心を持つ慈善家である。アイランドのITスタートアップの設立者。アジア・ヨーロッパ・アメリカにおけるプロジェクトの責任者。シンギュラリティの支援者",
+          "image": "member9.jpg",
+          "soc_1": "https://www.linkedin.com/in/timkosykh",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/tim.kosykh"
+      },
+      {
+          "name": "Yuri Polovinkin",
+          "position": "Technical Director",
+          "text": "モスクワ地下鉄でのWi-Fiネットワーク導入プロジェクトに参加。独自のホットスポットソリューション開発・起動。大手企業のITシステムの開発・導入。",
+          "image": "member6.jpg",
+          "soc_1": "https://www.linkedin.com/in/yury-polovinkin-b0022535",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/yury.polovinkin"
+      },
+      {
+          "name": "Anand Gupta",
+          "position": "Big Data strategy",
+          "text": "インドの技術大学を卒業。Nokia及びMitel社向けのビッグデータソリューション開発の経験あり。",
+          "image": "member12.jpg",
+          "soc_1": "https://www.linkedin.com/in/anand-gupta-438151/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Bhavik Limbani",
+          "position": "App Developer",
+          "text": "モバイルアプリケーションの優秀な開発者。Java-Webとブロックチェーン開発者。",
+          "image": "member13.jpg",
+          "soc_1": "https://www.linkedin.com/in/bhaviklimbani/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Evgeniy Khashin",
+          "position": "CTO & Strategy",
+          "text": "ロシア初のPaaS「Dokkur」の共同設立者。「Swanager」インフラプロバイダーの最高技術責任者",
+          "image": "member8.jpg",
+          "soc_1": "https://ru.linkedin.com/in/adastreamer",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/adastreamer"
+      },
+      {
+          "name": "Jagadish Channagiri ",
+          "position": "Big Data expert",
+          "text": "ソフトウェア開発プロジェクトの責任者。ビッグデータ向けの製品開発プロジェクトの経験あり。",
+          "image": "member14.jpg",
+          "soc_1": "https://www.linkedin.com/in/jagadishchannagiri/",
+          "soc_2": "",
+          "soc_3": ""
+      },
+      {
+          "name": "Anastasia Prikazchikova",
+          "position": "Маркетинг & PR",
+          "text": "ロシア国内外のスタートアッププロジェクト向けのマーケティングソリューションのマネジメント・開発の経験あり。Gift to the Angel慈善団体の設立者。",
+          "image": "member15.jpg",
+          "soc_1": "https://www.linkedin.com/in/anastasia-prikazchikova-a732bb157",
+          "soc_2": "",
+          "soc_3": "https://www.facebook.com/anastasia.kh.79"
+      }
+
+   ]
+
+}
