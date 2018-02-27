@@ -3,7 +3,7 @@
 	 ini_set('display_errors', '0');
 
   $live = 60*90*1;
-  $live = $live - mktime() + filemtime("counter.txt");
+  $live = $live - mktime() + filemtime("/counter.txt");
   if ($live<0) {
 
         $file = "counter.txt";
@@ -26,7 +26,7 @@
 
        }else{
 
-         $content = file_get_contents('counter.txt', FILE_USE_INCLUDE_PATH);
+         $content = file_get_contents('/counter.txt', FILE_USE_INCLUDE_PATH);
          $content = number_format($content / 1000000, 3) . ' M';
          echo json_encode(array('result' => $content));
        }
