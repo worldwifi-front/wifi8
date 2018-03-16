@@ -4,6 +4,11 @@ set -e  # Exit with non-zero if anything fails
 MASTER_BRANCH="master"
 STAGING_BRANCH="staging"
 
+if [ "$TRAVIS_BRANCH" != "$MASTER_BRANCH" ]; then
+    echo "Temporarily disable staging deploy"
+    exit 0
+fi
+
 # Do not build a new version if it is a pull-request or commit not to BUILD_BRANCH
 if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
     echo "Not $BUILD_BRANCH, skipping deploy;"
