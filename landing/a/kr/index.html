@@ -10,11 +10,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="format-detection" content="telephone=no">
         <meta http-equiv="x-rim-auto-match" content="none">
-        <link rel="stylesheet" href="/landing/a/en/css/bootstrap.min.css?t=1521472342663">
-        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/font-awesome.min.css?t=1521472342663">
-        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/style.min.css?t=1521472342663">
-        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/patch_kr.min.css?t=1521472342663">
-        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/patch_ie.min.css?t=1521472342663">
+        <link rel="stylesheet" href="/landing/a/en/css/bootstrap.min.css?t=1521707181162">
+        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/font-awesome.min.css?t=1521707181162">
+        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/style.min.css?t=1521707181162">
+        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/patch_kr.min.css?t=1521707181162">
+        <link rel="stylesheet" type="text/css" href="/landing/a/en/css/patch_ie.min.css?t=1521707181162">
         <link href="/landing/a/en/favicon.ico" rel="shortcut icon">
         <link href="/landing/a/en/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <script>
@@ -97,7 +97,7 @@
                         
                         
 
-                                                    <a class="nav-link dropdown-toggle" href="/profile?lang=ko">입장</a>
+                                                    <a class="nav-link dropdown-toggle" href="/profile?lang=ko">로그인</a>
                                             </li>
                     <li class="nav-item dropdown lang-selector">
                         <a class="nav-link dropdown-toggle text-uppercase" href="" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">kr</a>
@@ -275,7 +275,7 @@
 
                                                                                                              <li>
                                             <a target="_blank" href="https://open.kakao.com/o/gSQusLI" class="social__link link--1">
-                                                <img src="/landing/a/en/img/kakaotalk-2.png">
+                                                <div class="access">비번 9933</div><img src="/landing/a/en/img/kakaotalk-2.png">
                                             </a>
                                         </li>
                                                                              <li>
@@ -381,20 +381,24 @@
                                     <div class="clock__text">초</div>
                                 </div>
                             </div>
-                            <hr>
+
                             <div class="countdown__text--main">
-                                <div class="text__row">
-                                    <span class="text__title">TOKEN PRICE</span>
-                                    <span class="text__value">1WT=0,1$</span>
+
+                                <div class="header__table">
+                                    <div class="header__col">
+                                        <span class="text__title">토큰 가격:</span>
+                                        <span class="text__value" >
+                                            1WT= <span class="text__value--mark" id="tokenValue"></span>
+                                        </span>
+                                    </div>
+                                    <div class="header__col">
+                                        <span class="text__title">사전 판매 </span>
+                                        <span class="text__value">보너스 <span class="text__value--mark">15%</span></span>
+                                    </div>
                                 </div>
-                                <div class="text__row text__row--bottom">
-                                    <span class="text__title">
-                                        <span class="text__title--mark">15%</span>
-                                    <br>사전 판매 단계 보너스!</span>
-                                    <!-- <span class="text__value">25%</span> -->
-                                </div>
-                                
+                                <span class=bonusFromText_1>프리세일의 모든 참여자에게는 BTC/Wetoken 및 ETH/Wetoken 환율은 다음과 같이 고정됩니다. BTC 환율의 가치가 $ 9000 이상이고 ETH 환율의 가치가 $ 700 이상인 경우, 환율은 4 월 17 일 Bitfinex 거래소의 실제 가치로 고정됩니다. BTC 또는 ETH 환율 (WeToken을 구입했던 가상통화에 따라 다름)이 위에 언급한 가치보다 낮으면 BTC/Wetoken 및 ETH/Wetoken 환율은 1 BTC = 9000 $ 및 1 ETH = 700 $의 가치로 고정됩니다.</span>
                             </div>
+
                             <div class="text-center">
                                 <div class="btn--blik--group">
                                     <span class="border-blik"></span>
@@ -578,11 +582,8 @@
                         </div>
                     </div>
 
-                    <div class="text-center">
-                        
-                        
-                        
-                    </div>
+                   
+					
                     <!-- <div class="row pt-0 pt-lg-5">
                         <div class="col-12">
                             <div class="text-center">
@@ -595,7 +596,7 @@
         </div>
     </div>
 </section>
-		 <div class="section_separator">WORLD WIFI</div>
+		<div class="section_separator">WORLD WIFI</div>
           <section class="section section__cases section__animated" id="cases">
             <div class="text-center">
                 <div class="section__title"></div>
@@ -627,7 +628,7 @@
                                         World WI-FI 플랫폼을 이용하여 이용자는 개방된 WI-FI 네트워크에 무료 접속을 할 수 있습니다. 짧은 광고를 보는 것만으로도 접속 작업을 설명하기에는 충분합니다.
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <img src="/en/img/cases/1.png" alt="">
+                                        <img src="/landing/a/en/img/cases/1.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -639,7 +640,7 @@
                                         공유기 소유자는 몇 번의 클릭으로 우리의 소프트웨어를 설치하고 개인 네트워크와 분리된 오픈 네트워크를 생성하며 가상 화폐를 벌 수 있습니다. 다른 이용자는 그의 오픈 네트워크에 접속할 것이며 접속시 광고가 중계되고 광고주는 공유기 소유자와 함께 매 광고 열람에 대해 비용을 지급할 것입니다.
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <img src="/en/img/cases/2.png" alt="">
+                                        <img src="/landing/a/en/img/cases/2.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -651,7 +652,7 @@
                                         광고주는 World WI-FI의 도움으로 자신의 타깃층을 선택하고 해당 고객에게 광고를 중계합니다. 우리의 플랫폼에서 광고주는 다음을 취득합니다.<br>- 정확한 타깃팅 정보, <br>- 블록체인에 연결된 WI-FI 지점 마다 검증된 광고 회사의 변환에 대하여 신뢰할 수 있는 통계, <br>- 라이브 트래픽의 존재 및 인터넷 봇의 완전한 부재.
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <img src="/en/img/cases/3_en.png" alt="">
+                                        <img src="/landing/a/en/img/cases/3_en.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -663,7 +664,7 @@
                                         World WI-FI는 분산형 글로벌 WI-FI 네트워크로 커뮤니티의 노력으로 생성됩니다. 활동적인 사람들을 위해 우리는 돈을 벌 수 있도록 고려했으며 네트워크 개발 비지니스를 진행할 수도 있습니다. 이에 대한 자세한 정보는 white paper를 참조합니다.
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <img src="/en/img/cases/5.png" alt="">
+                                        <img src="/landing/a/en/img/cases/5.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -675,7 +676,7 @@
                                         World WI-FI 플랫폼의 도움으로 인터넷 프로바이더는 자신의 이용자에게 무료 인터넷을 제공할 수 있으며, 네트워크에 접속시 광고를 보여주면서 수익을 올릴 수 있습니다. 게다가, 통계에 따르면 광고 수익은 가입비를 초과합니다. 대부분의 인터넷 프로바이더에게 있어 문제시되었던 연체료 문제가 해결됩니다.
                                     </div>
                                     <div class="col-lg-4 text-center">
-                                        <img src="/en/img/cases/4.png" alt="">
+                                        <img src="/landing/a/en/img/cases/4.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -685,7 +686,16 @@
                     
                     <div class="text-center">
                         
-                                            </div>
+                        
+						
+						 						
+						
+						 						
+						
+						 						
+						
+                        
+                    </div>
                         
                 </div>
 
@@ -739,9 +749,9 @@
 
 
                 <div class="col-12 mt-5">
-                    <p class="text mb-3 mb-lg-5">
+                    <!--<p class="text mb-3 mb-lg-5 text-center">
                         토큰의 가치는 사용자 수와 누적된 데이터 용량이 늘어날 수록 증가될 것입니다
-                    </p>
+                    </p>-->
 
                                         <div class="text-center mb-5">
                         <img src="/landing/a/en/img/table_3_kr.png" alt="" style="width: 100%;">
@@ -828,9 +838,7 @@
 
                     </div> -->
 
-                    <div class="text-center">
-                        <a href="/users/sign_up" class="btn btn__buy btn--blik">WEToken 구매하기</a>
-                    </div>
+                   
                 </div>
 
             </div>
@@ -838,7 +846,6 @@
     </div>
 </section>
         <div class="section_separator">WORLD WIFI</div>
-
         <section class="section section__graph section__animated" id="wetoken">
     <div class="text-center">
         <div class="section__title">토큰 가격</div>
@@ -849,40 +856,533 @@
                 <div class="col-12">
                     <div class="graph__image">
                         <img src="/landing/a/en/img/graph/graph_kr.png" alt="" class="graph__pic">
+						<img src="/landing/a/en/img/graph/graph_m_kr.png" alt="" class="graph__pic graph__pic--mobile">
                     </div>
                 </div>
-            </div>
+            </div>  
 
-            <div class="row graph__wrapper justify-content-center">
-                <div class="col-sm-4">
+            <div class="row graph__wrapper justify-content-center mb-5">
+                <div class="col-lg-4">
                     <div class="graph__item">
                         <div class="graph__title">2018년 3월. 토큰 가격 $</div>
                         <div class="graph__month">
-                            <img src="/landing/a/en/img/graph/march.png" alt="" class="graph__pic">
+                            <!-- <img src="/landing/a/en/img/graph/march.png" alt="" class="graph__pic"> -->
+                            <table class="graph__table">
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">26</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">27</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">28</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">2</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">3</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">4</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">5</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">6</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">7</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">8</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">9</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">10</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">11</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">12</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">13</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">14</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">15</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">16</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">17</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">18</div>
+                                        <div class="graph__price">0,100</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">19</div>
+                                        <div class="graph__price">0,101</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">20</div>
+                                        <div class="graph__price">0,102</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">21</div>
+                                        <div class="graph__price">0,103</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">22</div>
+                                        <div class="graph__price">0,104</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">23</div>
+                                        <div class="graph__price">0,105</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">24</div>
+                                        <div class="graph__price">0,106</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">25</div>
+                                        <div class="graph__price">0,107</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">26</div>
+                                        <div class="graph__price">0,108</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">27</div>
+                                        <div class="graph__price">0,109</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">28</div>
+                                        <div class="graph__price">0,110</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">29</div>
+                                        <div class="graph__price">0,111</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">30</div>
+                                        <div class="graph__price">0,112</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">31</div>
+                                        <div class="graph__price">0,113</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price">0,114</div>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-lg-4">
                     <div class="graph__item">
                         <div class="graph__title">2018년 4월. 토큰 가격 $</div>
                         <div class="graph__month">
-                            <img src="/landing/a/en/img/graph/april.png" alt="" class="graph__pic">
+                            <!-- <img src="/landing/a/en/img/graph/april.png" alt="" class="graph__pic"> -->
+                            <table class="graph__table">
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">26</div>
+                                        <div class="graph__price">0,108</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">27</div>
+                                        <div class="graph__price">0,109</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">28</div>
+                                        <div class="graph__price">0,110</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">29</div>
+                                        <div class="graph__price">0,111</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">30</div>
+                                        <div class="graph__price">0,112</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">31</div>
+                                        <div class="graph__price">0,113</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price">0,114</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">2</div>
+                                        <div class="graph__price">0,115</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">3</div>
+                                        <div class="graph__price">0,116</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">4</div>
+                                        <div class="graph__price">0,117</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">5</div>
+                                        <div class="graph__price">0,118</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">6</div>
+                                        <div class="graph__price">0,119</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">7</div>
+                                        <div class="graph__price">0,120</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">8</div>
+                                        <div class="graph__price">0,121</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">9</div>
+                                        <div class="graph__price">0,122</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">10</div>
+                                        <div class="graph__price">0,123</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">11</div>
+                                        <div class="graph__price">0,124</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">12</div>
+                                        <div class="graph__price">0,125</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">13</div>
+                                        <div class="graph__price">0,126</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">14</div>
+                                        <div class="graph__price">0,127</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">15</div>
+                                        <div class="graph__price">0,128</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">16</div>
+                                        <div class="graph__price">0,129</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">17</div>
+                                        <div class="graph__price">0,130</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">18</div>
+                                        <div class="graph__price">0,131</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">19</div>
+                                        <div class="graph__price">0,132</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">20</div>
+                                        <div class="graph__price">0,133</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">21</div>
+                                        <div class="graph__price">0,134</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">22</div>
+                                        <div class="graph__price">0,135</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">23</div>
+                                        <div class="graph__price">0,136</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">24</div>
+                                        <div class="graph__price">0,137</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">25</div>
+                                        <div class="graph__price">0,138</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">26</div>
+                                        <div class="graph__price">0,139</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">27</div>
+                                        <div class="graph__price">0,140</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">28</div>
+                                        <div class="graph__price">0,141</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">29</div>
+                                        <div class="graph__price">0,142</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">30</div>
+                                        <div class="graph__price">0,143</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price">0,144</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">2</div>
+                                        <div class="graph__price">0,145</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">3</div>
+                                        <div class="graph__price">0,146</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">4</div>
+                                        <div class="graph__price">0,147</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">5</div>
+                                        <div class="graph__price">0,148</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">6</div>
+                                        <div class="graph__price">0,149</div>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-lg-4">
                     <div class="graph__item">
                         <div class="graph__title">2018년 5월. 토큰 가격 $</div>
                         <div class="graph__month">
-                            <img src="/landing/a/en/img/graph/may.png" alt="" class="graph__pic">
+                            <!-- <img src="/landing/a/en/img/graph/may.png" alt="" class="graph__pic"> -->
+                            <table class="graph__table">
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">30</div>
+                                        <div class="graph__price">0,143</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price">0,144</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">2</div>
+                                        <div class="graph__price">0,145</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">3</div>
+                                        <div class="graph__price">0,146</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">4</div>
+                                        <div class="graph__price">0,147</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">5</div>
+                                        <div class="graph__price">0,148</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">6</div>
+                                        <div class="graph__price">0,149</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">7</div>
+                                        <div class="graph__price">0,150</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">8</div>
+                                        <div class="graph__price">0,151</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">9</div>
+                                        <div class="graph__price">0,152</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">10</div>
+                                        <div class="graph__price">0,153</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">11</div>
+                                        <div class="graph__price">0,154</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">12</div>
+                                        <div class="graph__price">0,155</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">13</div>
+                                        <div class="graph__price">0,156</div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data">
+                                        <div class="graph__date">14</div>
+                                        <div class="graph__price">0,158</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">15</div>
+                                        <div class="graph__price">0,161</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">16</div>
+                                        <div class="graph__price">0,166</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">17</div>
+                                        <div class="graph__price">0,176</div>
+                                    </td>
+                                    <td class="table__data">
+                                        <div class="graph__date">18</div>
+                                        <div class="graph__price">0,200</div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">19</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">20</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">21</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">22</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">23</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">24</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">25</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">26</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">27</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                </tr>
+                                <tr class="table__row">
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">28</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">29</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">30</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">31</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">1</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">2</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                    <td class="table__data table__data--passed">
+                                        <div class="graph__date">3</div>
+                                        <div class="graph__price"></div>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
             </div>
+			
+			<div class="text-center">
+                <a href="/users/sign_up" class="btn btn__buy btn--blik">WEToken 구매하기</a>
+            </div>
+			
         </div>
     </div>
 </div>
-</section>
+</section> 
+
         <div class="section_separator">WORLD WIFI</div>
         <section class="section section__roadmap section__animated" id="roadmap">
     <div class="text-center">
@@ -1182,7 +1682,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">일리야 야쉰</div>
+                            <div class="member__name">Ilya Yashin</div>
                             <div class="member__position">Co-Founder & CEO</div>
                             <div class="member__text">IT 통합, 디지털 경제 및 블록버스터 분야의 전문가. 적극적으로 개발하고 있는 Adrenta와 Radius Wi-Fi의 공동 설립자. 모스크바에 IT 통합 업체 창설에 참여했음. 그분은 전단 경제의 미래가 블록버스터의 이면에 있다고 생각함.</div>
                         </div>
@@ -1204,7 +1704,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">얀 세피아쉬빌리</div>
+                            <div class="member__name">Yan Sepiashvili</div>
                             <div class="member__position">Co-Founder</div>
                             <div class="member__text">기업가이자 의학박사이면서 10년 이상을 IT, 광고, 부동산 업계 프로젝트를 담당하고 있다. Adrenta 및 Radius Wi-Fi 서비스의 관리 협력업체이자 공동 창업자이기도 하다.</div>
                         </div>
@@ -1226,7 +1726,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">드미트리 칼레즈네프</div>
+                            <div class="member__name">Dmitry Koleznev</div>
                             <div class="member__position">Chief Operation Officer</div>
                             <div class="member__text">'월드텔레콤'의 대표이사이자 주주였다. 또한 국가결제시스템과 '델타 텔레콤'의 대표이사이자 주주였다.</div>
                         </div>
@@ -1245,7 +1745,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">라리 케메론</div>
+                            <div class="member__name">Larry Cameron</div>
                             <div class="member__position">Technical Information Security Officer</div>
                             <div class="member__text">다년간 정보기술 업계에서 기술이사로 근무했다. 데이터센터, 시스템 구축, 관리시스템, 지원 및 사이버 보안 분야에서 실무 경험을 보유하고 있다.</div>
                         </div>
@@ -1267,7 +1767,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">알리샤 골덴</div>
+                            <div class="member__name">Alisha Golden</div>
                             <div class="member__position">Marketing & PR in North America</div>
                             <div class="member__text">성장 기업과 대규모 신생기업, 3개 대륙 브랜드 업체에서 11년간의 업무 경력을 보유한 성장 전략가 및 미디어 전문가. 알리샤는 차량 구비 장비 기술, 투자, 고객 유치에 필요한 대중매체 주요 장비 등에 대한 지식을 보유하고 있다. Alisha 고객에는 Fast Company, INC, Wired, Forbes, Origin Magazine, ABC 뉴스, The Huffington Post, New York Daily News이 있고, 실리콘 밸리 브랜드들, 거대 기술 기업 등과도 협업 관계를 구축했다.</div>
                         </div>
@@ -1289,7 +1789,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">티무르 코시흐</div>
+                            <div class="member__name">Tim Kosykh</div>
                             <div class="member__position">CBDO</div>
                             <div class="member__text">기술 열광자이면서 세계시민주의자. 아일랜드 몇몇 IT 신생기업 창업자. 아시아, 유럽, 아메리카 프로젝트 지휘. 기술적 독창성 신봉자.</div>
                         </div>
@@ -1311,7 +1811,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">유리 폴로빈킨</div>
+                            <div class="member__name">Yuri Polovinkin</div>
                             <div class="member__position">Technical Director</div>
                             <div class="member__text">모스크바 전철 내 Wi-Fi 설치에 참여. 핫 스팟 솔루션 개발 및 설치. 대규모 기업 내 정보시스템 개발 및 도입에 참여.</div>
                         </div>
@@ -1330,7 +1830,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">아난드 굽타</div>
+                            <div class="member__name">Anand Gupta</div>
                             <div class="member__position">인도공과대학교 IIT 졸업. «Nokia» 및 «Mitel» 사에서 빅데이터 솔루션 구현에 다년간의 경험 보유.</div>
                             <div class="member__text">Graduate of the Indian Institute of Technology. Extensive experience in Big Data solutions for Nokia and Mitel</div>
                         </div>
@@ -1349,7 +1849,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">브하비크 림바니</div>
+                            <div class="member__name">Bhavik Limbani</div>
                             <div class="member__position">App Developer</div>
                             <div class="member__text">모바일 앱 개발에 재능을 보이는 개발자. Java-Web 개발자. 블록체인 개발자.</div>
                         </div>
@@ -1368,7 +1868,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">자가디쉬 차나기리</div>
+                            <div class="member__name">Jagadish Channagiri</div>
                             <div class="member__position">Big Data expert</div>
                             <div class="member__text">소프트웨어 개발 프로젝트 책임자. 빅데이터 솔루션 제품 개발 분야에서 경험 다수.</div>
                         </div>
@@ -1390,7 +1890,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">아나스타시야 프리카즈치코바</div>
+                            <div class="member__name">Anastasia Prikazchikova</div>
                             <div class="member__position">Marketing & PR</div>
                             <div class="member__text">러시아와 해외 신생기업 프로젝트 마케팅 솔루션 운영 및 개발 분야에서 광범위한 경험을 보유하고 있으며, 자선단체 '파다로크 안겔루/천사에게 보내는 선물' 설립자이다.</div>
                         </div>
@@ -1425,7 +1925,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">드미트리 데인</div>
+                            <div class="member__name">Dmitry Dain</div>
                             <div class="member__position">Adviser, one of the first developers of 802.11 Wi-Fi Protocol</div>
                             <div class="member__text">저명한 크립토그래퍼로 세계크립토그래퍼협회 회원이며 Wi-Fi 및 LTE 기술 개발자이면서, 암호화 및 암호학을 다루는 미국 «Virgil Security» 사의 소유주이자 발기인이다. 세계크립토그래퍼협회 회원이다.</div>
                         </div>
@@ -1444,7 +1944,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">프레드 레드베터</div>
+                            <div class="member__name">Fred Ledbetter</div>
                             <div class="member__position">Adviser, executive in largest Telecom operators</div>
                             <div class="member__text">Virgin Connect 사의 상무이자, Golden Telecom에서 협력업체 관리를 담당하였으며, Imaginet/Czech Telecom 대표이사를 역임했다. 대기업, 중견기업 및 신생기업 Wi-Fi, 인터넷, 무선, 모바일 통신 분야에서 근무 경험이 많다.</div>
                         </div>
@@ -1463,7 +1963,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">테리 데 호터</div>
+                            <div class="member__name">Thierry De Gorter</div>
                             <div class="member__position">Adviser</div>
                             <div class="member__text">프린스턴대학 기업금육 학부를 졸업했다. 첨단 핀테크 기술에 영감을 받은 그는 블록체인 기술에 몰입했다. 현재 분산형 인프라 프로젝트 솔루션의 고문이면서 개발자이다. 테리 비트코인 열광자이며 동시에 박애주의자.</div>
                         </div>
@@ -1488,7 +1988,7 @@
                             </div>
                         </div>
                         <div class="member__info">
-                            <div class="member__name">야굽 라히모프</div>
+                            <div class="member__name">Yagub Rahimov</div>
                             <div class="member__position">Media Adviser </div>
                             <div class="member__text">핀테크 에코시스템에서 근무하고 있는 사업가. 16세부터 투자하면서 야굽은 수상 경력도 보유하고 있으며, 2009년 중반부터는 가상화폐와 비트코인 투자자로 활동하고 있다. 블록체인 기술과 기계적 학습이 결합하면 핀테크 에코시스템의 장래가 결정될 것이라는 비전을 갖고 있다.</div>
                         </div>
@@ -1569,6 +2069,16 @@
                                                     <div class="partners__item item__partner">
                                                                     <a href="https://www.kickico.com" target="_blank" class="partners__link">
                                         <img src="/landing/a/en/img/partners/logo-beta.jpg" alt="" class="partners__logo">
+                                    </a>
+                                                            </div>
+                                                    <div class="partners__item item__partner">
+                                                                    <a href="http://rebz.net/" target="_blank" class="partners__link">
+                                        <img src="/landing/a/en/img/partners/rebz.jpg" alt="" class="partners__logo">
+                                    </a>
+                                                            </div>
+                                                    <div class="partners__item item__partner">
+                                                                    <a href="https://coinplace.info/" target="_blank" class="partners__link">
+                                        <img src="/landing/a/en/img/partners/coinplace.jpg" alt="" class="partners__logo">
                                     </a>
                                                             </div>
                                             </div>
@@ -2167,7 +2677,7 @@
 
                                                                                                  <li>
                                         <a target="_blank" href="https://open.kakao.com/o/gSQusLI" class="social__link link--1">
-                                            <img src="/landing/a/en/img/kakaotalk-2.png">
+                                            <div class="access">비번 9933</div><img src="/landing/a/en/img/kakaotalk-2.png">
                                         </a>
                                     </li>
                                                                      <li>
@@ -2273,15 +2783,15 @@
     </div>
 
         
-        <script type="text/javascript" src="/landing/a/en/js/vendor.js?t=1521472342663"></script>
-        <script type="text/javascript" src="/landing/a/en/js/application.min.js?t=1521472342663"></script>
+        <script type="text/javascript" src="/landing/a/en/js/vendor.js?t=1521707181162"></script>
+        <script type="text/javascript" src="/landing/a/en/js/application.min.js?t=1521707181162"></script>
         
-    <script src="/landing/a/en/js/particles-app.min.js?t=1521472342663" type="text/javascript"></script>
-    <script src="/landing/a/kr/js/translate.min.js?t=1521472342663"></script>
-    <script src="/landing/a/en/js/app.min.js?t=1521472342663"></script>
-    <script src="/landing/a/en/js/index.min.js?t=1521472342663"></script>
-    <script src="/landing/a/en/js/calc.min.js?t=1521472342663"></script>
-    <script src="/landing/a/en/js/preloader.min.js?t=1521472342663"></script>
+    <script src="/landing/a/en/js/particles-app.min.js?t=1521707181162" type="text/javascript"></script>
+    <script src="/landing/a/kr/js/translate.min.js?t=1521707181162"></script>
+    <script src="/landing/a/en/js/app.min.js?t=1521707181162"></script>
+    <script src="/landing/a/en/js/index.min.js?t=1521707181162"></script>
+    <script src="/landing/a/en/js/calc.min.js?t=1521707181162"></script>
+    <script src="/landing/a/en/js/preloader.min.js?t=1521707181162"></script>
 
     </body>
 </html>
