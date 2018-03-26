@@ -1,1 +1,1 @@
-@media(max-width:575px){.text__title{font-size:12px}.text__value{font-size:13px}.text__value--mark{font-size:18px}}@media (max-width:1920px){.header__text{margin-bottom:142px;margin-top:150px}}
+@media(max-width:575px){.header__container{min-height:auto;padding-top:85px}.text__title{font-size:12px}.text__value{font-size:13px}.text__value--mark{font-size:18px}}@media (max-width:1920px){.header__text{margin-bottom:142px;margin-top:150px}}
