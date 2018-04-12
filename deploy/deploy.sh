@@ -66,11 +66,14 @@ if ! [[ -z $(git status -s) ]] ; then
   echo "Pushing changes to the $BACKEND_REPO staging branch"
   git commit -m "Add new build data from $BACKEND_NAME frontend $HEAD_COMMIT commit to $BUILD_BRANCH"
   git push origin $BUILD_BRANCH
-  echo "Add $HEROKU_REPO_URL as heroku remote"
-  git remote add heroku $HEROKU_URL
-  echo "Pushing to heroku remote..."
-  export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
-  git push -q --force heroku $BUILD_BRANCH:master
+  if [ "$TRAVIS_BRANCH" != "$MASTER_BRANCH" ]; then
+    echo "It is not master branch, so push it to Heroku"
+    echo "Add $HEROKU_REPO_URL as heroku remote"
+    git remote add heroku $HEROKU_URL
+    echo "Pushing to heroku remote..."
+    export GIT_SSH_COMMAND="ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no"
+    git push -q --force heroku $BUILD_BRANCH:master
+  fi
   echo "All done."
 else
   echo "There are no changes in result build, so nothing to push forward. End here."
