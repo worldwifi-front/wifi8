@@ -10,11 +10,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="format-detection" content="telephone=no">
         <meta http-equiv="x-rim-auto-match" content="none">
-        <link rel="stylesheet" href="/landing/b/en/css/bootstrap.min.css?t=1525324429525">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/font-awesome.min.css?t=1525324429525">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/style.min.css?t=1525324429525">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_cn.min.css?t=1525324429525">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ie.min.css?t=1525324429525">
+        <link rel="stylesheet" href="/landing/b/en/css/bootstrap.min.css?t=1525340223268">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/font-awesome.min.css?t=1525340223268">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/style.min.css?t=1525340223268">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_cn.min.css?t=1525340223268">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ie.min.css?t=1525340223268">
         <link href="/landing/b/en/favicon.ico" rel="shortcut icon">
         <link href="/landing/b/en/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <script>
@@ -635,27 +635,41 @@
         </button>
       </div>
       <div class="modal-body">
-        <form>
+        <form method="POST" id="invite_mail_send" name="invite_mail_send">
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">名称</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="text" name="name" class="form-control required" id="recipient-name">
           </div>
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">电话</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="phone" name="phone" class="form-control" id="recipient-phone">
           </div>
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">电子邮件</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="email" name="email" class="form-control required" id="recipient-email">
           </div>
           <div class="form-group">
             <label for="message-text" class="col-form-label">信息</label>
-            <textarea class="form-control" id="message-text"></textarea>
+            <textarea name="message" class="form-control" rows="5" id="message-text"></textarea>
           </div>
+          <button type="submit" class="btn btn__buy">发送</button>
         </form>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn__buy">发送</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="inviteResult" tabindex="-1" role="dialog" aria-labelledby="inviteResult" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="inviteTitle"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p class="inviteResult text-center"></p>
       </div>
     </div>
   </div>
@@ -664,15 +678,15 @@
     </div>
 
         
-        <script type="text/javascript" src="/landing/b/en/js/vendor.js?t=1525324429525"></script>
-        <script type="text/javascript" src="/landing/b/en/js/application.min.js?t=1525324429525"></script>
+        <script type="text/javascript" src="/landing/b/en/js/vendor.js?t=1525340223268"></script>
+        <script type="text/javascript" src="/landing/b/en/js/application.min.js?t=1525340223268"></script>
         
-    <script src="/landing/b/en/js/particles-app.min.js?t=1525324429525" type="text/javascript"></script>
-    <script src="/landing/b/cn/js/translate.min.js?t=1525324429525"></script>
-    <script src="/landing/b/en/js/app.min.js?t=1525324429525"></script>
-    <script src="/landing/b/en/js/index.min.js?t=1525324429525"></script>
-    <script src="/landing/b/en/js/calc.min.js?t=1525324429525"></script>
-    <script src="/landing/b/en/js/preloader.min.js?t=1525324429525"></script>
+    <script src="/landing/b/en/js/particles-app.min.js?t=1525340223268" type="text/javascript"></script>
+    <script src="/landing/b/cn/js/translate.min.js?t=1525340223268"></script>
+    <script src="/landing/b/en/js/app.min.js?t=1525340223268"></script>
+    <script src="/landing/b/en/js/index.min.js?t=1525340223268"></script>
+    <script src="/landing/b/en/js/calc.min.js?t=1525340223268"></script>
+    <script src="/landing/b/en/js/preloader.min.js?t=1525340223268"></script>
 
     </body>
 </html>

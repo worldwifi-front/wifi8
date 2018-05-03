@@ -10,11 +10,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta name="format-detection" content="telephone=no">
         <meta http-equiv="x-rim-auto-match" content="none">
-        <link rel="stylesheet" href="/landing/b/en/css/bootstrap.min.css?t=1525324430293">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/font-awesome.min.css?t=1525324430293">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/style.min.css?t=1525324430293">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ar.min.css?t=1525324430293">
-        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ie.min.css?t=1525324430293">
+        <link rel="stylesheet" href="/landing/b/en/css/bootstrap.min.css?t=1525340224960">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/font-awesome.min.css?t=1525340224960">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/style.min.css?t=1525340224960">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ar.min.css?t=1525340224960">
+        <link rel="stylesheet" type="text/css" href="/landing/b/en/css/patch_ie.min.css?t=1525340224960">
         <link href="/landing/b/en/favicon.ico" rel="shortcut icon">
         <link href="/landing/b/en/favicon.ico" rel="shortcut icon" type="image/x-icon">
         <script>
@@ -2859,7 +2859,7 @@ that payments will be remitted when the Deal's target is reached.</div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <div class="social mb-0">
+                    <div class="social mb-5">
                         <div class="social__title">‏قم بتوزيع wi-fi وأكسب العملة الافتراضية </div>
                         <ul class="social__list">
 
@@ -2945,11 +2945,11 @@ that payments will be remitted when the Deal's target is reached.</div>
                         </ul>
                     </div>
 
-                    <!-- <div class="inviteInternetText">
+                    <div class="inviteInternetText">
                         <p class="big"> ندعو للتعاون معنا </p>
                         <p>وكالات الإعلان ومزودي/ مشغلي خدمات الاتنرنت</p>
                         <a href="" data-toggle="modal" data-target="#invite" class="btn btn__buy">- اترك الطلب</a>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
@@ -3024,27 +3024,41 @@ that payments will be remitted when the Deal's target is reached.</div>
         </button>
       </div>
       <div class="modal-body">
-        <form>
+        <form method="POST" id="invite_mail_send" name="invite_mail_send">
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">- الاسم</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="text" name="name" class="form-control required" id="recipient-name">
           </div>
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">- الهاتف</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="phone" name="phone" class="form-control" id="recipient-phone">
           </div>
           <div class="form-group">
             <label for="recipient-name" class="col-form-label">- البريد الإلكتروني</label>
-            <input type="text" class="form-control" id="recipient-name">
+            <input type="email" name="email" class="form-control required" id="recipient-email">
           </div>
           <div class="form-group">
             <label for="message-text" class="col-form-label">- الرسالة</label>
-            <textarea class="form-control" id="message-text"></textarea>
+            <textarea name="message" class="form-control" rows="5" id="message-text"></textarea>
           </div>
+          <button type="submit" class="btn btn__buy">- أرسل</button>
         </form>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn__buy">- أرسل</button>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="inviteResult" tabindex="-1" role="dialog" aria-labelledby="inviteResult" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="inviteTitle"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p class="inviteResult text-center"></p>
       </div>
     </div>
   </div>
@@ -3052,15 +3066,15 @@ that payments will be remitted when the Deal's target is reached.</div>
     </div>
 
         
-        <script type="text/javascript" src="/landing/b/en/js/vendor.js?t=1525324430293"></script>
-        <script type="text/javascript" src="/landing/b/en/js/application.min.js?t=1525324430293"></script>
+        <script type="text/javascript" src="/landing/b/en/js/vendor.js?t=1525340224960"></script>
+        <script type="text/javascript" src="/landing/b/en/js/application.min.js?t=1525340224960"></script>
         
-    <script src="/landing/b/en/js/particles-app.min.js?t=1525324430293" type="text/javascript"></script>
-    <script src="/landing/b/ar/js/translate.min.js?t=1525324430293"></script>
-    <script src="/landing/b/en/js/app.min.js?t=1525324430293"></script>
-    <script src="/landing/b/en/js/index.min.js?t=1525324430293"></script>
-    <script src="/landing/b/en/js/calc.min.js?t=1525324430293"></script>
-    <script src="/landing/b/en/js/preloader.min.js?t=1525324430293"></script>
+    <script src="/landing/b/en/js/particles-app.min.js?t=1525340224960" type="text/javascript"></script>
+    <script src="/landing/b/ar/js/translate.min.js?t=1525340224960"></script>
+    <script src="/landing/b/en/js/app.min.js?t=1525340224960"></script>
+    <script src="/landing/b/en/js/index.min.js?t=1525340224960"></script>
+    <script src="/landing/b/en/js/calc.min.js?t=1525340224960"></script>
+    <script src="/landing/b/en/js/preloader.min.js?t=1525340224960"></script>
 
     </body>
 </html>
