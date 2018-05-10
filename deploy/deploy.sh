@@ -3,14 +3,11 @@ set -e  # Exit with non-zero if anything fails
 
 MASTER_BRANCH="master"
 STAGING_BRANCH="staging"
-<<<<<<< HEAD
 
 if [ "$TRAVIS_BRANCH" != "$MASTER_BRANCH" ]; then
     echo "Temporarily disable staging deploy"
     exit 0
 fi
-=======
->>>>>>> 7354e2e2e65edab859cc52acb1f94e293bf06833
 
 # Do not build a new version if it is a pull-request or commit not to BUILD_BRANCH
 if [ "$TRAVIS_PULL_REQUEST" != "false" ]; then
@@ -44,7 +41,6 @@ echo "Pull upstream backend repo"
 pushd ..
 git clone $BACKEND_REPO $BACKEND_NAME
 echo "Return back to the original repo"
-<<<<<<< HEAD
 popd
 
 if [ "$TRAVIS_BRANCH" == "$MASTER_BRANCH" ]; then
@@ -60,23 +56,6 @@ pushd ../$BACKEND_NAME
 git checkout $BUILD_BRANCH
 popd
 
-=======
-popd
-
-if [ "$TRAVIS_BRANCH" == "$MASTER_BRANCH" ]; then
-  BUILD_BRANCH=$MASTER_BRANCH
-  HEROKU_URL=$HEROKU_PROD_REPO_URL
-else
-  BUILD_BRANCH=$STAGING_BRANCH
-  HEROKU_URL=$HEROKU_STAGING_REPO_URL
-fi
-
-echo "Checkout to $BUILD_BRANCH branch in backend repo"
-pushd ../$BACKEND_NAME
-git checkout $BUILD_BRANCH
-popd
-
->>>>>>> 7354e2e2e65edab859cc52acb1f94e293bf06833
 echo "Copy data to the backend repo"
 mkdir -p ../$BACKEND_NAME/public/
 rsync -avi --exclude=deploy --exclude=id_rsa --exclude=.git --exclude=.travis.yml --exclude=.gitignore ./ ../$BACKEND_NAME/public/
