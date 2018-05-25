@@ -43,7 +43,17 @@
         }
         }
         </style>
-    </head>
+		        <link rel="manifest" href="/manifest.json" />
+        <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+        <script>
+          var OneSignal = window.OneSignal || [];
+          OneSignal.push(function() {
+            OneSignal.init({
+              appId: "65e33867-6b07-40db-a9eb-d3af44ae5116",
+            });
+          });
+        </script>
+            </head>
     <body>
         <!-- Google Tag Manager (noscript) -->
         <noscript>
@@ -55,8 +65,8 @@
 
         <div class="missed__block">
     <div class="container">
-	    		  <a href="https://t.me/world_wifi" target="_blank">Bientôt la fin de la prévente – dépêchez-vous d’obtenir un bonus</a>
-		    </div>
+            <a href="" data-toggle="modal" data-target="#invite" >NOUS INVITONS À COLLABORER les agences de publicité, opérateurs et fournisseurs d'accès internet</a>
+    </div>
 </div>
 
 <!-- <div class="missed__block">
@@ -544,6 +554,12 @@
                                                                                     </li>
                                                                             <li>
                                             
+                                                                                            <a target="_blank" href="https://github.com/World-WiFi/deal-referral-contract" class="social__link link--1">
+                                                    <i class="fa fa-github" aria-hidden="true"></i>
+                                                </a>
+                                                                                    </li>
+                                                                            <li>
+                                            
                                                                                             <a target="_blank" href="https://www.reddit.com/r/worldwifi/" class="social__link link--1">
                                                     <i class="fa fa-reddit-alien" aria-hidden="true"></i>
                                                 </a>
@@ -670,7 +686,7 @@
                             </div>
                             
                             
-                            <p class="presaleEndText">Fin de la VENTE DE JETONS : <b>21 mai 2018</b></p>
+                            <p class="presaleEndText">Fin de la VENTE DE JETONS : <b>18 mai 2018</b></p>
                             
 
                             <div class="countdown__text--bottom">
@@ -773,6 +789,8 @@
                 
     </div>
 
+
+        
         
         <script type="text/javascript" src="https://static.worldwifi.io/landing/a/en/js/vendor.js"></script>
         <script type="text/javascript" src="https://static.worldwifi.io/landing/a/en/js/application.min.js"></script>
